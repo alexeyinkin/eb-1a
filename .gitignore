@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+
+latex_public/inkin.*
+!latex_public/inkin.tex

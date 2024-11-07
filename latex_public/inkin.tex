@@ -1,0 +1,26 @@
+\documentclass[12pt,letterpaper]{article}
+
+\input{use}
+\input{style}
+
+\subimport{./}{definitions}
+\subimport{commands/}{commands}
+
+\newcounter{exhibit}
+\newlistof[section]{Exhibits}{loe}{} % 'loe' == extension for temp file.
+\renewcommand{\cftExhibitspresnum}{Exhibit }
+
+\begin{document}
+
+    \cftsetindents{Exhibits}{0em}{5.3em}
+
+    \subimport{./}{toc}
+
+    \subimport{Forms/}{Forms}
+    \subimport{Passport/}{Passport}
+    \subimport{Body/}{Body}
+    \subimport{WorkPlan/}{WorkPlan}
+    \subimport{ListOfExhibits/}{ListOfExhibits}
+    \subimport{Exhibits/}{Exhibits}
+
+\end{document}
