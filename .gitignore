@@ -1,5 +1,7 @@
 .DS_Store
 .idea
 
+2-petition/media/excerpts
+
 latex_public/inkin.*
 !latex_public/inkin.tex
