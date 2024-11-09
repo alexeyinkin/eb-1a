@@ -2003,23 +2003,39 @@ in a separate article.
 It has every form I filed,
 every response I got,
 and every screenshot in the process.
-[Read it here](../1-process/1-PROCESS.md).
+[Read it here](../1-process/README).
 
 ![](../1-process/media/339_me.jpeg)
+
+
+## Questions?
+
+I started a chat to answer them all:
+
+- https://t.me/eb1a_chat
+
+Join and feel free just to say "Hi!"
+I like to hear from those who want to come to this great country!
 
 
 ## Thank You!
 
 This article is a part of the series:
 
-1. **[The Process](../1-process/1-PROCESS.md)**.  
+1. **[The Process](../1-process/README)**.  
    Every form I filed, every response I got,
    and every screenshot in the process
    up to my arrival in the US.
 2. **The Petition [You Are Here]**.
-3. **[Improvements to the Process I suggest](../3-improvements/3-IMPROVEMENTS.md)**.  
-   If you work for the department of government efficiency
-4. How I can help you with your petition.
+3. **[Improvements to the Process I suggest](../3-improvements/README)**.  
+   If you work for the department of government efficiency,
+   read my suggestions on how to get the process from months to days
+   and gain millions from immigrants paying their taxes early.
+4. **[How I can help you with your petition](../4-help/README.md)**.  
+   I can answer any questions that do not require a lawyer's license,
+   try to evaluate your profile for the EB-1A program,
+   give you career advice that would strengthen your profile for the program,
+   proofread your petition, and more.
 
 Read them all.
 Follow me to keep in touch:
@@ -2028,3 +2044,5 @@ Follow me to keep in touch:
 - Twitter: https://x.com/AlexeyInkin
 - LinkedIn: https://www.linkedin.com/in/alexey-inkin/
 - Instagram: https://www.instagram.com/alexey.inkin/
+- Facebook: https://www.facebook.com/alexey.inkin
+- VK: https://vk.com/ainkin
