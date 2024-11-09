@@ -31,14 +31,14 @@ Contact me for details: https://www.linkedin.com/in/alexey-inkin/
 
 This article is a part of the series:
 
-1. **[The Process](../1-process/README)**.  
+1. **[The Process](../1-process/README.md)**.  
    Every form I filed, every response I got,
    and every screenshot in the process
    up to my arrival in the US.
 2. **[The Petition](../2-petition/README.md)**.  
    Download my entire petition and read
    how I chose my criteria and what to submit for them.
-3. **[Improvements to the Process I suggest](../3-improvements/README)**.  
+3. **[Improvements to the Process I suggest](../3-improvements/README.md)**.  
    If you work for the department of government efficiency,
    read my suggestions on how to get the process from months to days
    and gain millions from immigrants paying their taxes early.

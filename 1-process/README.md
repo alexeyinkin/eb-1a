@@ -20,7 +20,7 @@ Dec 1 - Day 367
 [download it here](../latex_public/inkin.pdf).**
 The rest of this article describes the process *after* filing it.
 The process of writing is described in
-[a separate article here](../2-petition/README).
+[a separate article here](../2-petition/README.md).
 
 ![](media/339_visa-stamped.jpg)
 
@@ -31,7 +31,7 @@ This is just my experience with the system.
 
 Since I was outside the United States, the process was the following:
 
-1. I wrote a formal [petition](../2-petition/README)
+1. I wrote a formal [petition](../2-petition/README.md)
    with the proof of my extraordinary ability
    to [The United States Citizen and Immigration Service (USCIS)](https://www.uscis.gov),
    known as I-140 petition.
@@ -1606,7 +1606,7 @@ This article is a part of the series:
 2. **[The Petition](../2-petition/README.md)**.  
    Download my entire petition and read
    how I chose my criteria and what to submit for them.
-3. **[Improvements to the Process I suggest](../3-improvements/README)**.  
+3. **[Improvements to the Process I suggest](../3-improvements/README.md)**.  
    If you work for the department of government efficiency,
    read my suggestions on how to get the process from months to days
    and gain millions from immigrants paying their taxes early.

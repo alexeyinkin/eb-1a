@@ -808,7 +808,7 @@ https://www.linkedin.com/feed/
 
 This article is a part of the series:
 
-1. **[The Process](../1-process/README)**.  
+1. **[The Process](../1-process/README.md)**.  
    Every form I filed, every response I got,
    and every screenshot in the process
    up to my arrival in the US.

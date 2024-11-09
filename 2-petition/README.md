@@ -2003,7 +2003,7 @@ in a separate article.
 It has every form I filed,
 every response I got,
 and every screenshot in the process.
-[Read it here](../1-process/README).
+[Read it here](../1-process/README.md).
 
 ![](../1-process/media/339_me.jpeg)
 
@@ -2022,12 +2022,12 @@ I like to hear from those who want to come to this great country!
 
 This article is a part of the series:
 
-1. **[The Process](../1-process/README)**.  
+1. **[The Process](../1-process/README.md)**.  
    Every form I filed, every response I got,
    and every screenshot in the process
    up to my arrival in the US.
 2. **The Petition [You Are Here]**.
-3. **[Improvements to the Process I suggest](../3-improvements/README)**.  
+3. **[Improvements to the Process I suggest](../3-improvements/README.md)**.  
    If you work for the department of government efficiency,
    read my suggestions on how to get the process from months to days
    and gain millions from immigrants paying their taxes early.
