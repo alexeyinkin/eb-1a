@@ -17,7 +17,7 @@ Dec 1 - Day 367
 -->
 
 **TL;DR: If you are looking for my petition,
-[download it here](../latex_public/inkin.pdf).**
+[download it here](https://github.com/alexeyinkin/eb-1a/releases/latest/download/inkin.pdf).**
 The rest of this article describes the process *after* filing it.
 The process of writing is described in
 [a separate article here](../2-petition/README.md).
