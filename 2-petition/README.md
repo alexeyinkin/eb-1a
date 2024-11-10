@@ -165,8 +165,7 @@ but also for the high number of the instances of those criteria.
 
 [The Policy Manual](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2)
 has a convenient provision.
-If a criterion is not readily applicable to one,
-they can submit any an evidence of anything else comparable to that in nature and merit.
+If a criterion is not readily applicable, one may submit any evidence of something comparable in nature and merit.
 
 In my case, scientific articles were not readily applicable to me
 because I work in the industry and not in academia.
