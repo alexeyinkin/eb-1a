@@ -1,0 +1,11 @@
+% A table of contents for a group of exhibits.
+% Arguments:
+%   1 - Group name.
+\makeatletter
+\newcommand\ListOfExhibits[1]{%
+    \let\oldl@subsection\l@subsection
+    \renewcommand{\l@subsection}[2]{\oldl@subsection{Exhibit ##1}{##2}}%
+    \@starttoc{#1}%
+    \let\l@subsection\oldl@subsection
+}
+\makeatother

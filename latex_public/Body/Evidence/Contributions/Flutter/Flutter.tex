@@ -1,0 +1,189 @@
+\subsubsection{Flutter Code Editor}
+\label{subsubsec:ContributionsFlutter}
+
+\SubSubSubSection{Context}
+
+Flutter is a technology developed by Google for cross-platform development of web, mobile, and computer applications.
+According to Google's own account, it helped them reduce the engineering efforts by 70\%
+in one of their applications compared to separate development for Android and iOS \ExhibitRef{FlutterGooglePay}.
+
+`Flutter Code Editor' is a software product developed at Akvelon, led by \mrl.
+It is a code editor that can be used as part of any application made with Flutter.
+It has unique combination of features and supported platforms, as will be shown below,
+thus it is an original scientific contribution in the field.
+
+For better context and the visual demo of the editor, see \ExhibitRef{FceDemo}.
+
+\SubSubSubSection{Proof that \mrl is the primary author of the editor}
+
+The leading role of \mrl is shown in the letter from \MrAkvelonT:
+
+\ParagraphQuoteByExhibit{%
+    <\dots>%
+}{\MrAkvelonT}{LetterAkvelon}
+
+On GitHub, it can be independently seen that \mrl has made almost 5 times more commits
+to the editor source code than the next largest contributor \ExhibitRef{FceGitHubContributors}.
+
+Finally, \mrl is listed as the first of the team members in the product announcement
+\ExhibitRef{AkvelonFceAnnouncement}.
+
+
+\SubSubSubSection{Proof that the product is the second most popular universal code editor in Flutter}
+
+The official package repository for Dart and Flutter packages is `https://pub.dev'.
+It shows the popularity metric for packages but it has no categories of packages.
+
+To specifically select code editors to compare their popularity,
+the website FlutterGems.dev can be used.
+As explained in their Twitter account, it is
+
+\ParagraphQuoteByExhibit{%
+    a curated package guide which functionally categorizes 5.5k+ most useful and popular @dart\_lang [Dart]
+    \& @FlutterDev [Flutter] packages.%
+}{Flutter Gems Twitter}{FlutterGemsTwitter}
+
+For context, Dart is the programming language which is used in Flutter technology,
+they come together often in this petition.
+
+FlutterGems.dev has a category for code editors and highlighters, which contains 12 packages
+\ExhibitRef{FlutterGemsEditors}.
+There are 7 packages with good and average maintenance status.
+Of them, the following should be excluded:
+
+\begin{itemize}
+
+    \item flutter\_highlighter and highlighter are not editors,
+    they only highlight static uneditable code.
+
+    \item json\_editor is a specialized editor for only a single language, JSON \ExhibitRef{JsonWikipedia},
+    while universal code editors are expected to support over a hundred programming languages.
+
+\end{itemize}
+
+If sorted by the number of likes in the original pub.dev repository, the remaining packages are:
+
+\begin{center}
+    \begin{tabular}{|l|l|r|r|}
+        \hline
+        & Name & Likes & Popularity\\
+        \hline
+        1 & code\_text\_field & 135 & 93\%\\
+        2 & code\_editor & 94 & 83\%\\
+        3 & flutter\_code\_editor & 80 & 89\%\\
+        4 & codemirror & 15 & 83\%\\
+        \hline
+    \end{tabular}
+\end{center}
+
+In this table, the popularity metric is taken from each package's pub.dev page,
+the original source of truth for all statistics \ExhibitRef{CodeEditorPopularity}.
+
+As explained on a help page at pub.dev, likes are what developers manually award
+while the popularity is
+
+\ParagraphQuoteByExhibit{%
+    a percentile from 100\% (among the top 1\% most used packages)
+    to 0\% (the least used package).%
+}{Pub.dev help page}{PubScoring}
+
+So the popularity is the proper metric and not likes.
+This makes flutter\_code\_editor the second most popular universal code editor in Flutter.
+
+Note that `codemirror', the 4th package in the list, is made by Google
+as indicated on its pub.dev page under `Publisher' section \ExhibitRef{CodeEditorPopularity}.
+\mrls product in this category is more popular and more widely used than the competing product from Google itself.
+
+Note: The popularity percentiles of 93\% and 89\% should not be considered low by themselves.
+Code editors are niche packages to make applications for programmers.
+They are expected to be less popular than some fancy buttons, lists, timers, etc.,
+which are used in mainstream applications and have the popularity of 98--100\% on pub.dev.
+
+
+\SubSubSubSection{Proof of the major significance of the product}
+
+The supporting letter from Google reads:
+
+\ParagraphQuoteByExhibit{%
+    <\dots>%
+}{\MrGoogleT}{LetterGoogle}
+
+The supporting letter from Akvelon reads:
+
+\ParagraphQuoteByExhibit{%
+    <\dots>%
+}{\MrAkvelonT}{LetterAkvelon}
+
+The letter from Mr. \MrEditorT reads:
+
+\ParagraphQuoteByExhibit{%
+    Mr. Inkin and the team he led while working for Akvelon <\dots> their most prominent features include:
+
+    \begin{itemize}
+
+        \item Code folding.
+        Large programs can get hard to read.
+        Their editor can collapse and expand code sections, and it greatly improves programmer's experience.
+
+        \item Error highlighting.
+        Their editor can connect to servers to check code for errors and show
+        problematic lines and report specific problems in code.
+
+        \item Autocomplete.
+        Their editor suggests words as a programmer types them, and it
+        significantly reduces programming errors.
+
+        \item Search.
+        Flutter does not have a cross-platform built-in search in text fields, and they made it.
+
+    \end{itemize}
+
+    Before those features, an editor in a Flutter app could only satisfy basic programmer's needs
+    while leaving the feeling that it's still far from professional development tools available on computers.
+    As a result, people would often write larger pieces of code in professional desktop
+    editors and then copy and paste it into a Flutter app to use it there.
+
+    \ul{The features developed by Mr. Inkin led to a paradigm shift} where much more work can be done
+    in a Flutter app directly, and professional \ul{desktop editors are less often needed.
+    This is huge for the industry because it streamlines work,
+    decreases dependency on desktop computers and makes more tasks achievable on just mobile devices}.
+
+    This is already \ul{seen by the adoption of their editor}.
+    It became the second most popular one as measured by the package repository at pub.dev.
+    It is already \ul{used in chats, online configuration editors, larger-scale online editors, and more}.%
+}{\MrEditorT}{LetterEditor}
+
+Applications that use flutter\_code\_editor include:
+
+\begin{itemize}
+
+    \item Apache Beam Playground, Tour of Beam -- 7100 stars \ExhibitRef{BeamGitHubStars}.
+
+    \item network\_proxy\_flutter -- 2700 stars, an open-source free packet capture software
+    \ExhibitRef{FceNetworkProxyFlutter}.
+
+    \item Miru -- 900 stars, a viewer for video, comics, and novels
+    \ExhibitRef{FceMiru}.
+
+\end{itemize}
+
+Reviews of the editor include:
+
+\ParagraphQuoteByExhibit{%
+    I use flutter\_code\_editor to allow users to edit various scripts right within the app.
+    I find the code folding feature very valuable especially on small screens of mobile devices.
+    It is an important factor to why the users love the app and its popularity grows.%
+}{The author of network\_proxy\_flutter application}{FceNetworkProxyFlutterRecommendation}
+
+\ParagraphQuoteByExhibit{%
+    I use flutter\_code\_editor developed by Alexey Inkin and Akvelon, Inc.
+
+    It comes with all the things that I need in a code editor out of the box.
+    That has helped me focus on the other critical aspects of the IDE like the LSP server.
+
+    Specifically, it has an out of the box solution for code analysis and a way to override its analyser,
+    and great implementation of code blocks folding.
+    No IDE could possibly do without that nowadays.
+    This is the only package in Flutter having those features.
+    Without it, I would have to spend months implementing it myself before I could get to the IDE functionality.%
+}{\MrIde}{IdeRecommendation}

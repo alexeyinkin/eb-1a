@@ -1,0 +1,150 @@
+\subsubsection{PHPStan}
+\label{subsubsec:ContributionsPhpStan}
+
+\SubSubSubSection{Context}
+
+PHP is a popular programming language used by over 19\% of all programmers globally \ExhibitRef{PhpStackOverflow}.
+
+It is a language for website backends where it dominates:
+
+\ParagraphQuoteByExhibit{%
+    PHP is used by 76.7\% of all the websites whose server-side programming language we know.%
+}{W3Tech}{PhpUsage}
+
+It is used by such large websites as Facebook.com, Wikipedia.org, Vimeo.com, and others \ExhibitRef{PhpWebsites}.
+
+PHP is not shipped with tools to check code for errors before it runs.
+This is why external tools have emerged.
+One of them is named PHPStan.
+It
+
+\ParagraphQuoteByExhibit{%
+    \dots finds bugs in your code without writing tests. It's open-source and free.%
+}{PHPStan home page}{PhpStanHome}
+
+\mrl has made a major improvement in that tool, which is explained below.
+
+
+\SubSubSubSection{Proof that \mrl has made an improvement in PHPStan}
+
+The specific pull requests (code contributions) of \mrl are shown in \ExhibitRef{PhpStanPrs}.
+The nature of them will be explained below.
+
+
+\SubSubSubSection{The problem and the nature of \mrls improvement in PHPStan}
+
+The problem and the nature of the \mrls improvement in PHPStan is best described
+by \MrPhpOne, a <Title and company>:
+
+\ParagraphQuoteByExhibit{%
+    Back in 2020, there was \ul{a long-missing feature} in this tool.
+    In simple words, the tool \ul{required redundant comments} in the code
+    to correctly detect certain types of errors.
+    \ul{These comments were of no other use, did not help the primary functionality of a program,
+    and were hard to maintain.
+    For that reason, some programmers were never using them,
+    exposing their code to a certain class of errors}
+    that could only be seen when a program was manually tested.
+    My work at the time was affected by this problem as well.
+
+    Technically speaking, that missing feature was the ability to merge and partially override
+    the content of doc comments in subclasses.
+    Before Alexey's contribution,
+    any doc comment in a subclass would replace the one from the base class,
+    causing a loss of type information for arguments and return values.
+    This was critical because back then a doc comment
+    was the only way in PHP to widen an argument type or narrow down a return type,
+    and is still the only way to specify the type of elements in an array.
+    If a programmer needed to amend any of those types in a subclass,
+    they had to duplicate the entire comment from the base class
+    for PHPStan to be able to detect type errors.
+
+    Mr. Alexey Inkin has developed and contributed the ability to merge such comments
+    while preserving the type information.
+
+    The effects of that contribution were that:
+
+    \begin{enumerate}
+
+        \item \ul{No code duplication is required} for type checks to work when overriding doc comments.
+
+        \item \ul{No false positive errors} are emitted if two comments fall out of sync by mistake.
+
+        \item The behavior of the tool now matches what programmers intuitively expect,
+        thus they \ul{spend less time learning special behavior}.
+
+    \end{enumerate}
+
+    As I already mentioned, PHPStan is \ul{the most popular} static code analyzer for PHP
+    with \ul{over a hundred million downloads} since the contribution of Mr. Alexey Inkin.
+    \ul{It's safe to say that this feature is widely used in the industry in companies of all sizes}.
+}{\MrPhpOneT}{LetterPhpOne}
+
+Mr. \MrPhpOne is <title in company>, see \ExhibitRef{PhpOneCompanyRole}
+and his LinkedIn page \ExhibitRef{PhpOneLinkedIn}.
+
+The <\dots> role of <the company> for the PHP language and community is described
+on the website of <the company>:
+
+\ParagraphQuoteByExhibit{%
+    <\dots>%
+}{<Company website>}{PhpOneCompanyAbout}
+
+The problem was not only that excessive comments were required for the analyzer to work properly.
+As a <title> puts it,
+
+\ParagraphQuoteByExhibit{%
+    To preserve type information, programmers had to fully copy the doc block
+    from the original method and then edit some types.
+
+    This was inconvenient and hard to maintain, so \ul{programmers mostly never did that.
+    Instead, they were not using this check to avoid false reports
+    when their code relied on more specific types in a subclass.
+    Skipping a check results in possible errors.
+    Even large projects with over a million lines of code were suffering from that}.
+
+    Mr. Alexey Inkin resolved that.
+    He implemented merging of the doc blocks when overriding a method.
+    A ‘return’ and ‘param’ tags in an overridden method now take over, and ‘throws’ tags add up.
+    This removed the need for redundant comments in code
+    and matches the intuitive understanding of how things should work.
+    \ul{This allowed PHPStan to be adopted in large projects} without silencing type checks,
+    which resulted in \ul{improved code quality and stability of projects in the industry}.
+    The tool has seen a \ul{great increase of usage after May 2020 when this was implemented}.%
+}{\MrPhpTwoT}{PhpTwoRecommendation}
+
+The position of \MrPhpTwo is confirmed by his LinkedIn page \ExhibitRef{PhpTwoLinkedIn}
+and an announcement from <the company> \ExhibitRef{PhpTwoCompanyRole}.
+
+`<title>' is an important position
+because <of what is explained in> \ExhibitRef{PhpTwoCompanyAbout}.
+
+The problem in PHPStan was so critical and long-standing
+that it was reported 11 times independently although programmers normally check
+if an issue was already reported before.
+See \ExhibitRef{PhpStanIssues} for the list of all issues
+fixed by this contribution.
+Note that in the end of all of them the creator of PHPStan attributes
+
+\ParagraphQuoteByExhibit{%
+    Awesome work!%
+}{\MrMirtesT}{PhpStanIssues}
+
+to \mrl personally.
+
+The fact that \MrMirtes is the founder of PHPStan
+is confirmed on his LinkedIn page \ExhibitRef{MirtesLinkedIn}.
+
+
+\SubSubSubSection{Proof of the mass adoption of PHPStan}
+
+Packages in PHP are traditionally downloaded from the website called Packagist \ExhibitRef{ComposerWikipedia},
+and it tracks the download statistics for individual packages.
+It shows that PHPStan has been downloaded over 131 million times
+since the contribution of \mrl \ExhibitRef{PhpStanPackagist}.
+
+Another metric is GitHub stars.
+PHP itself has just over 36 thousand stars while PHPStan has over 12 thousands \ExhibitRef{PhpStanStars}.
+If a supportive tool has just 3 times less stars than the language it supports,
+it means the tool is very popular and important.
+See \ExhibitRef{GitHubStars} on why GitHub stars is a valid popularity metric.
