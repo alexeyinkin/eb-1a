@@ -26,7 +26,7 @@ The process of writing is described in
 
 ## The Process
 
-Nothing here is a legal advice.
+Nothing here is legal advice.
 This is just my experience with the system.
 
 Since I was outside the United States, the process was the following:
@@ -55,7 +55,7 @@ Since I was outside the United States, the process was the following:
 4. I mailed the copies of those documents to them
    over physical mail.
 5. The NVC replied that everything was complete,
-   and I should wait for the interview date.
+   and that I should wait for the interview date.
    If they miss any documents, they ask for them.
 6. The NVC gave me my interview date.
 7. I took a medical exam in a clinic
@@ -69,25 +69,25 @@ Since I was outside the United States, the process was the following:
    with a courier in a few days.
    Otherwise, if they were in doubt,
    they could have given me the passport back
-   and take more time for an additional security check
+   and taken more time for an additional security check
    (euphemistically known as *'administrative processing'*).
    It takes weeks to months, sometimes over a year.
    I could also have completely failed the interview
-   and be rejected even after the petition approval,
+   and been rejected even after the petition approval,
    although this is rare.
 10. I arrived in the United States before
     my immigrant visa expired.
     When my immigrant visa was stamped at the border
     I officially became a lawful permanent resident of the United States.
     My visa with the stamp is the legal equivalent
-    of the green card for the first year.
+    of a green card for the first year.
 11. I should receive a Social Security Number (SSN) card
     and the green card by physical mail after some time
     and update this article.
 
 If I was in the United States already
 (tourist, work visa, studying, asylum, etc.),
-the petition steps would the same,
+the petition steps would be the same,
 but after the approval of the petition
 the process is different,
 it's called *'the adjustment of status'*
@@ -99,15 +99,15 @@ to that of a permanent resident.
 - [Nov 30, 2023](#day-0) - My US agent printed and mailed the petition to the USCIS.
 - [Dec 2, 2023](#day-2) - Petition delivered to the PO box.
 - [Dec 5, 2023](#day-5) - Petition taken from the queue, 'priority date' assigned, fee cheques cashed.
-- [Dec 7, 2023](#day-7) - Received the email with the case number, the 15-days deadline started.
+- [Dec 7, 2023](#day-7) - Received the email with the case number, the 15-day deadline started.
 - [Dec 14, 2023](#day-14) - Petition approved, received the approval email.
 - [Dec 15, 2023](#day-15) - Paper notice of approval issued.
-- [Dec 19, 2023](#day-19) - NVC received the case from USCIS, issued the Welcome Letter and requested further documents.
+- [Dec 19, 2023](#day-19) - NVC received the case from USCIS, issued the Welcome Letter, and requested further documents.
 - [Dec 28, 2023](#day-28) - Received scans of the paper notice of approval and NVC Welcome Letter from my mail agent.
 - [Jan 11, 2024](#step-7-civil-documents) - My US mail agent printed and mailed further civil documents to NVC.
 - [Jan 16, 2024](#day-47) - Civil documents delivered to the PO box.
 - [Jan 31, 2024](#day-62) - Civil documents acknowledged.
-- [Feb 7, 2024](#day-69) - Email from NVC on acknowledging the civil documents.
+- [Feb 7, 2024](#day-69) - Email from NVC acknowledging the civil documents.
 - [Sep 6, 2024](#day-281) - Email from NVC with my interview date.
 - [Oct 3, 2024](#day-308) - Medical examination.
 - [Oct 23, 2024](#step-11-applicant-interview) - Interview in the United States embassy.
@@ -130,7 +130,7 @@ The red frame shows the currently selected step.
 That page is for all types of immigrant visas,
 so it distinguishes between the petitioner
 and the applicant.
-For EB-1A green card,
+For the EB-1A green card,
 I was both the petitioner and the applicant,
 so I disregarded the color codes.
 
@@ -148,7 +148,7 @@ And here is the petition itself (clickable):
 ## Day 0
 
 A petition had to be printed and sent over physical mail.
-I had to sign it in a few locations,
+I had to sign it in a few locations
 but didn't have to send the original paper I signed.
 Instead, sheets with my signature
 could be scanned and printed by someone else.
@@ -157,10 +157,10 @@ This allowed me to send the petition
 from another location through an agent who printed it.
 I used to live in [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)),
 and mail delivery was not reliable there,
-and could take long time.
+and could take a long time.
 So I asked my United States agent
 to print and send my petition,
-and this had proven to be fast.
+and this proven to be fast.
 I also used their address for replies.
 
 They printed and sent my petition on Nov 30, 2023.
@@ -190,7 +190,7 @@ by the state where I chose to reside.
 Don't copy mine, find your address
 [here](https://www.uscis.gov/forms/all-forms/direct-filing-addresses-for-form-i-140-immigrant-petition-for-alien-worker).
 
-The petition was sent with United States Post Service,
+The petition was sent with the United States Post Service,
 priority mail.
 They gave me a tracking number.
 
@@ -218,13 +218,13 @@ That was not the case for my country of birth,
 so this date was never important for me.
 
 On this day, nothing gave it out.
-I only learned it later from following mail.
+I only learned it later from the mail later.
 
 ## Day 7
 
 On December 7, I received an email with my case number.
 I believe this officially started
-the 15-days priority review period.
+the 15-day priority review period.
 
 ![](media/7_case-number.png)
 
@@ -232,7 +232,7 @@ It was December 8 in my timezone,
 but here and on I use the US time for night events.
 
 From this email,
-I've learned that I could speed up the communication
+I've learned that I could speed up communication
 if I put my fax number on my forms.
 Unfortunately, my agent didn't have a fax
 and didn't tell me about that option.
@@ -267,7 +267,7 @@ I was mad for them putting my Skill Level at zero, but if that's the cost, alrig
 
 On December 15, they printed a notice of approval and mailed it to me
 (see [below](#day-28)).
-This and all following mail was sent
+This and all following mail were sent
 to the mailing address from the I-140 form.
 
 ## Day 18
@@ -310,8 +310,8 @@ and most of them were only applicable
 to sponsored immigration, so I disregarded them.
 
 I immigrated alone.
-Those who have families on their application,
-would have the page 4 repeated for each of them
+Those who have families on their application
+would have page 4 repeated for each of them
 with different data.
 
 The most important things in the letter were:
@@ -352,11 +352,11 @@ was disabled:
 ![](media/29_fee_home.png)
 
 The next page listed all the fees I had to pay.
-For the immigration programs that require affidavit of support,
+For the immigration programs that require an affidavit of support,
 there is a fee to process that affidavit.
 On EB-1A, I don't need that, so the only fee was to issue
 my immigration visa.
-"IV" stood for immigration visa,
+"IV" stands for immigration visa,
 and this acronym will be seen a lot here.
 
 This page also showed that the payment was not instant
@@ -371,7 +371,7 @@ These are the standard credentials for US banks,
 and this is why cards from other countries don't work
 -- they just don't have that.
 
-In case of Bank of America,
+In the case of Bank of America,
 I had to sign in, select an account, and click 'Account & routing numbers'.
 I used the account number and the routing number for *'Paper & Electronic'*:
 
@@ -401,7 +401,7 @@ the 'Start Now' button became enabled:
 
 ![](media/42_form_start.png)
 
-It leads me to the form DS-260 'Online Immigrant Visa and Alien Registration Application'.
+It leads me to form DS-260 'Online Immigrant Visa and Alien Registration Application'.
 
 I prepared the online application and the civil documents (the next step) together.
 This is because:
@@ -422,7 +422,7 @@ so that I could mail them immediately
 after the NVC accepted the fee.
 
 DS-260 is a long form,
-and they estimate it to take 155 minutes to fill it out.
+and they estimate it to take 155 minutes to fill out.
 It took me something about that.
 
 The form was automatically saved
@@ -437,7 +437,7 @@ which now read *'Incomplete'*:
 ![](media/42_form_incomplete.png)
 
 My complete DS-260 form is here (clickable,
-again not a legal advice as is everything here):
+again not legal advice as is everything here):
 
 [![](media/ds-260_preview.png)](https://github.com/alexeyinkin/eb-1a/releases/latest/download/ds-260.pdf)
 
@@ -459,10 +459,10 @@ It was straightforward except for a few points:
   but I had it in 2015 on my DS-160 form
   for a tourist visa,
   so I thought to better be safe than sorry
-  if they match the two forms.
+  if they matched the two forms.
 
 - On the medical page, I was not sure
-  if I had all the required vaccination,
+  if I had all the required vaccinations,
   but I knew I would get all the missing shots
   during the medical examination,
   so I thought 'Yes' was alright here.
@@ -497,7 +497,7 @@ my agent printed and sent the package of documents to the NVC (clickable):
 
 [![](media/nvc_preview.png)](https://github.com/alexeyinkin/eb-1a/releases/latest/download/nvc.pdf)
 
-This package is an overkill,
+This package is overkill,
 but that's fine because I'm a serial overkiller.
 
 I've heard that military records are not required
@@ -508,13 +508,13 @@ that read *'did not serve'* explicitly.
 Also, I was detained at a
 [Navalny's](https://en.wikipedia.org/wiki/Alexei_Navalny) rally once.
 It was political, so it was not an issue
-for the USA authorities.
+for the US authorities.
 It was a detainment and not an arrest,
 and a detainment is a milder procedure.
 However, the European Court of Human Rights
 in its ruling translated that as *an arrest*.
 That's why I decided to answer *'Yes'*
-to the arrest question in DS-260 form,
+to the arrest question in the DS-260 form,
 and so I attached both court rulings on the matter.
 I decided it would be worse to answer 'No'
 and then have them google
@@ -523,14 +523,14 @@ and then have them google
 Of the civil documents, I sent two only partially:
 - To save on translation, In the military records book,
   I have chosen the pages I felt were the most important.
-- In the judgement by The European Court of Human Rights,
+- In the judgment by The European Court of Human Rights,
   I dropped a few trailing pages with the names
   of other people on the same case.
 
 Later I thought that was risky.
 There was nothing I could have gained
 by submitting the incomplete documents,
-but in the worst case I could have lost a month
+but in the worst case, I could have lost a month
 doing another round of papers.
 
 ## Day 47
@@ -551,7 +551,7 @@ but I doubt that Tuesday was better than the Saturday before.
 ![](media/47_tracking.jpg)
 
 Well, at least it was signed by J. Washington.
-I wonder they have a premium plan to get it signed by G. Washington.
+I wonder if they have a premium plan to get it signed by G. Washington.
 
 ## Day 53
 
@@ -588,19 +588,19 @@ They showed a confirmation:
 
 ## Day 61
 
-22 hours later, they replied that they have received my civil documents
+22 hours later, they replied that they had received my civil documents
 but ignored my other 4 questions:
 
 ![](media/61_replied.png)
 
-Well, at least they answered the most important question,
+Well, at least they answered the most important question
 and the primary risk was resolved.
 
 I think it's wise to inquire that just when the delivery date
 gets behind the published processing date.
 It's the earliest chance to know the mail was not lost.
-Technically, I could have inquired it any time,
-but they ask not to until my date
+Technically, I could have inquired about it any time,
+but they asked not to until my date
 is behind their published processing date.
 
 ## Day 62
@@ -630,8 +630,8 @@ That was 21 days after the package was delivered to them.
 
 ## Day 69
 
-Over the US's night,
-I received the regular email notifying on the same:
+Over the US night,
+I received the regular email notifying of the same:
 
 ![](media/69_dc_email.png)
 
@@ -641,8 +641,8 @@ And the attachment:
 
 ## Day 115
 
-I met another guy with EB-1A petition in my city
-with nearly identical timeline.
+I met another guy with an approved EB-1A petition in my city
+with the nearly identical timeline.
 He had this long wait too,
 which made it less probable that my case was lost.
 On March 24, he inquired them about the status
@@ -658,7 +658,7 @@ and that they can't predict anything.
 
 On March 31, the NVC sent an automatic email
 that my case was still with them
-waiting the appointment slot to be allocated.
+waiting for the appointment slot to be allocated.
 At least they thanked me for my patience.
 
 I celebrated my first commendation
@@ -669,7 +669,7 @@ that my case had been in this status since January 31.
 This is how I learned that date I mentioned earlier.
 
 They said they would have been sending such automated emails
-every 60 days until I get my appointment.
+every 60 days until I got my appointment.
 
 ![](media/123_wait.png)
 
@@ -690,15 +690,15 @@ They replied with nothing:
 
 On May 31, the NVC sent an automatic email
 that my case was still with them
-waiting the appointment slot to be allocated. Again.
+waiting for the appointment slot to be allocated. Again.
 
 ![](media/183_wait.png)
 
 ## Day 243
 
 On July 30, the NVC sent a third automatic email
-that my case is still with them
-waiting the appointment slot to be allocated.
+that my case was still with them
+waiting for the appointment slot to be allocated.
 
 ![](media/243_wait.png)
 
@@ -734,7 +734,7 @@ from the original NVC letter.
 So no new numbers were assigned. 
 
 Interestingly, NVC ended up assigning dates
-not on the first-in first-out basis.
+not on a first-in first-out basis.
 In the same city of interview, I know:
 
 - A person with civil documents accepted 40 days before mine
@@ -766,7 +766,7 @@ After the successful interview, they could have delivered the passport:
 - For pickup at a different branch of the delivery service for $12.
 - To any address in the country with a courier for $12.
 
-To get there, I followed the link at the consulate page.
+To get there, I followed the link on the consulate page.
 Note that they have since completely redesigned
 the old USTravelDocs, and these addresses no longer exist.
 You will have to find the new page
@@ -793,7 +793,7 @@ The final PDF after that to be printed for the interview:
 
 ## Day 284
 
-Next business day, on September 9,
+The next business day, on September 9,
 the NVC's status changed to *'Ready'*
 which meant NVC had transferred the case to the consulate
 and had nothing more to do with it:
@@ -806,7 +806,7 @@ to make the visa last longer.
 However, I prefer doing things sooner,
 and I scheduled the exam 20 days prior to the interview.
 
-They gave me the list of things to bring.
+They gave me a list of things to bring.
 In addition to what's on the consulate website were:
 
 - Digital photo 3.5 × 4.5 on a disk or USB drive
@@ -833,7 +833,7 @@ This also updated the date in my case:
 
 ## Day 291
 
-On September 16, my friends have received the paper copy
+On September 16, my friends received the paper copy
 of the appointment letter at the U.S. address
 from my DS-260 form:
 
@@ -842,7 +842,7 @@ from my DS-260 form:
 ## Day 302
 
 On September 27, I took my photos.
-I said I need a photo for a US visa,
+I said I needed a photo for a US visa,
 and the photographer took this:
 
 ![](media/302_photo_original.jpg)
@@ -867,24 +867,24 @@ This part varies highly by country
 and can be totally different for you.
 
 I arrived at the designated time.
-For 15 minutes, they were filling the forms.
+For 15 minutes, they were filling out the forms.
 For some reason, they did it in
 [the Australian immigration system website](https://emedical.immi.gov.au).
 I gave them my digital photo on a flash drive,
 3.5 × 4.5 cm.
 They did not take my printed photos
-and said that my case is all-digital
-despite the consulate website listed them
+and said that my case is all digital
+despite the consulate website listing them
 as required for the exam,
 and the clinic required them as well 
 over the phone earlier.
 
 I showed them all my vaccination records,
-handwritten files from 1980s and 4 COVID-19 shots.
+handwritten files from the 1980s, and 4 COVID-19 shots.
 They accepted all of them
 and only made me take a flu shot
 because it was the season
-and renew my diphtheria shot from the childhood.
+and renew my diphtheria shot from childhood.
 
 The examination by the doctor was about 10 minutes long.
 He measured my height (185 cm)
@@ -896,7 +896,7 @@ He auscultated my heart, chest, and back.
 
 He asked me:
 - Whether I had any acute condition now.
-- Whether I had any chronic deceases.
+- Whether I had any chronic diseases.
 - Whether I smoked, drank, or used drugs.
 - Whether I had any problems with organs (he named a few).
 - Whether I had any psychiatric problems.
@@ -907,7 +907,7 @@ No preparation for the test was required.
 The doctor administered the flu shot himself
 and sent me to partnering clinics:
 
-- One for the chest X-Ray scan.
+- One for the chest X-ray scan.
 - Another one for the diphtheria shot.
 
 That was about it.
@@ -926,8 +926,8 @@ and said they would send it all to the embassy.
 ## Day 310
 
 I got a call from the clinic.
-They said that the X-Ray and all blood tests
-came back fine, and I'm fit for the visa.
+They said that the X-ray and all blood tests
+came back fine, and I was fit for the visa.
 
 ## Day 312
 
@@ -947,7 +947,7 @@ I didn't figure out why.
 
 One day before the interview,
 at 12:34 they called me from the embassy from a hidden number
-and asked if I'm OK to be rescheduled from 9:45 to 12:30.
+and asked if I was OK to be rescheduled from 9:45 to 12:30.
 I agreed.
 
 This updated my status date once again.
@@ -966,7 +966,7 @@ My friends who have been through the process
 advised me to take as many documents as I could.
 
 Having so many,
-I sorted them out to the following folders:
+I sorted them out into the following folders:
 
 1. Originals of the required documents.
 2. Copies & translations of the required documents.
@@ -988,18 +988,18 @@ over what I sent to NVC:
 ### Birth Certificate
 
 I notarized the translation I submitted to the NVC
-but have forgotten to scan it for my records.
+but forgot to scan it for my records.
 
 ### Certificate of No Impediment to Marriage
 
 NVC took my word for not being married,
-but for the interview I had to confirm that.
+but for the interview, I had to prove that.
 My parents back in Russia got this paper for me
 from Civil Registration
 using the power of attorney I gave them earlier,
 and sent it to me.
 For the interview, I had notarized this translation
-but have forgotten to scan the notarization for my records.
+but forgot to scan the notarization for my records.
 
 [![](media/unmarried_preview.png)](media/unmarried.pdf)
 
@@ -1029,7 +1029,7 @@ and it took them 3 business days at the cheapest rate.
 This one they would only issue in the
 [Service Agency of the Ministry of Internal Affairs](https://www.google.com/maps/place/Service+Agency+of+the+Ministry+of+Internal+Affairs+of+Georgia,+Batumi+Service-Center+%E1%83%A8%E1%83%A1%E1%83%A1+%E1%83%97%E1%83%91%E1%83%98%E1%83%9A%E1%83%98%E1%83%A1%E1%83%98%E1%83%A1+%E1%83%9B%E1%83%9D%E1%83%9B%E1%83%A1%E1%83%90%E1%83%AE%E1%83%A3%E1%83%A0%E1%83%94%E1%83%91%E1%83%98%E1%83%A1+%E1%83%A1%E1%83%90%E1%83%90%E1%83%92%E1%83%94%E1%83%9C%E1%83%A2%E1%83%9D/@41.6316392,41.6352785,15z/data=!4m6!3m5!1s0x406787833988d275:0x653b8bc979d8000a!8m2!3d41.6316392!4d41.6352785!16s%2Fg%2F11vb5ftmby?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D).
 
-They also offered to translate it into english
+They also offered to translate it into English
 and put an apostille on it, in another 5 business days:
 
 [![](media/police-ge_no-expunged_public_preview.png)](media/police-ge_no-expunged_public.pdf)
@@ -1042,18 +1042,18 @@ which I submitted to NVC 9 months ago:
 
 For the Russian police certificate,
 I notarized the translation I sent to the NVC earlier
-but have forgotten to scan it for my records.
+but forgot to scan it for my records.
 
 ### Court Records
 
 I notarized the translation I submitted to the NVC
-but have forgotten to scan it for my records.
+but forgot to scan it for my records.
 
 ### Military Records
 
 I translated the pages I omitted when sending to the NVC
 and notarized the translation
-but have forgotten to scan it for my records.
+but forgot to scan it for my records.
 
 [![](media/military_public_preview.png)](media/military_public.pdf)
 
@@ -1066,10 +1066,10 @@ but have forgotten to scan it for my records.
 ### The Scene
 
 On October 23, I took only the bag, my phone,
-some cash and debit cards with me.
+some cash, and debit cards with me.
 I left everything else at the hotel.
 
-Many suggest to come well in advance.
+Many suggest coming well in advance.
 Scheduled at 12:30, I arrived at 11:20.
 There were no other visitors.
 When they were looking me up in the list for the
@@ -1131,16 +1131,16 @@ My embassy required it on the website
 and actually during the collection.
 
 The clerk didn't take my diplomas,
-supporting letters or anything else.
-She said that the officer could ask for them
+supporting letters, or anything else.
+She said an officer could ask for them
 if they wanted to during the interview.
 Then she told me to wait
-until I'm called for the interview by name.
+until I was called for the interview by name.
 
 Here is the summary of what I had in my folders,
 what she proactively asked,
-what she accepted after me asking,
-and what they returned to me after the intervew.
+what she accepted after I asked,
+and what they returned to me after the interview.
 
 #### Originals folder
 
@@ -1198,7 +1198,7 @@ Here is my rough recollection of the interview.
 👨‍🌾 I also have some amendments to my DS-260.  
 👨‍💼 First I need to fetch the petition. I will call you again.
 
-In a few minutes he called me again. First he took my fingerprints too.
+In a few minutes, he called me again. First, he took my fingerprints too.
 
 👨‍💼 Please raise your right hand.  
 👨‍🌾 First, I have the amendments to my DS-260.  
@@ -1207,15 +1207,15 @@ In a few minutes he called me again. First he took my fingerprints too.
 👨‍💼 Do you swear that the information in this form is full and accurate?  
 👨‍🌾 Yes, with these amendments.  
 👨‍💼 OK, what are the amendments?  
-👨‍🌾 First, my local address in Georgia has changed. Second, to the question of the vaccination I answered I had all the documents. But I didn't have them at the time of filing and only was supposed to get the missing shots at the medical examination. Third, I've learned some Spanish since.  
-👨‍💼 I don't need any of that. :) So, you're applying for the visa of extraordinary ability. What is your extraordinary ability?  
+👨‍🌾 First, my local address in Georgia has changed. Second, to the question of the vaccination, I answered I had all the documents. But I didn't have them at the time of filing and only was supposed to get the missing shots at the medical examination. Third, I've learned some Spanish since.  
+👨‍💼 I don't need any of that. :) So, you're applying for a visa of extraordinary ability. What is your extraordinary ability?  
 👨‍🌾 I'm a software developer.  
 👨‍💼 Tell me about your career as a software developer.  
-👨‍🌾 I got my first job at my 3rd year in university. It was a company that was doing firmwares for Motorola phones. I was making an internal website for communication and for managing contracts. Then I launched my first start up. It was a software marketplace. I maintained it for 10 years. Then I was a freelancer making websites for small businesses. Then an educator hired me as a CTO...  
+👨‍🌾 I got my first job in my 3rd year in university. It was a company that was doing firmware for Motorola phones. I was making an internal website for communication and for managing contracts. Then I launched my first start-up. It was a software marketplace. I maintained it for 10 years. Then I was a freelancer making websites for small businesses. Then an educator hired me as a CTO...  
 👨‍💼 Do you live in Tbilisi?  
 👨‍🌾 In Batumi, for two and a half years.  
 👨‍💼 Did you ever work in America?  
-👨‍🌾 Not in America but for an american company.  
+👨‍🌾 Not in America but for an American company.  
 👨‍💼 What company?  
 👨‍🌾 Named Akvelon. They do outsource software development.  
 👨‍💼 In the United States, where are you going?  
@@ -1223,11 +1223,11 @@ In a few minutes he called me again. First he took my fingerprints too.
 👨‍💼 Why Dallas?  
 👨‍🌾 I have friends there. Near it, the town of ___.  
 👨‍💼 What are you going to do in the United States?  
-👨‍🌾 I'll get a job as a software developer. It's another reason for Texas by the way, it recently became a hub for IT.  
+👨‍🌾 I'll get a job as a software developer. It's another reason for Texas, by the way, it recently became a hub for IT.  
 👨‍💼 Your visa is approved.
 
 That was it. Felt like ~5 minutes.
-Throughout the entire interview there was no tension, or catch, or anything unpleasant.
+Throughout the entire interview, there was no tension, catch, or anything unpleasant.
 Just a talk of two enthusiastic people.
 
 He returned my birth certificate and my military record book
@@ -1272,7 +1272,7 @@ but also how satisfied they were.
 The officer sees those hints and goes easy or hard on you.
 
 The family after me was interviewed by the same officer.
-He said to them that he needed one more week to familiarize with their case.
+He said to them that he needed one more week to familiarize himself with their case.
 That was unusual.
 After all, why set up an interview if you haven't done your homework?
 Of tens of EB-1A interview stories I got to know, it's only the second one of this kind.
@@ -1286,13 +1286,13 @@ Otherwise, an officer normally gives you the passports back
 if they lack some document from you or anticipate a long or indefinite check.
 Actually, this was the second-best thing that could happen to them at the interview.
 
-The windows 7 and 6 were holding tourist visa interviews.
-The window 7 read 'English', and in the window 6 the officer was able to speak Georgian (and likely Russian, but I was not sure).
+Windows 7 and 6 were holding tourist visa interviews.
+Window 7 read 'English', and in window 6 the officer was able to speak Georgian (and likely Russian, but I was not sure).
 While I was waiting, I witnessed one interview in the window 7 and two interviews in the window 6.
 I could hear them all, both the officers and the applicants.
 All were approved and went easy.
 
-At my hotel, the receptionist said that she could read faces of all the guests coming from their interviews.
+At my hotel, the receptionist said that she could read the faces of all the guests coming from their interviews.
 She said that 60--70% are approved on average.
 
 ### Follow Up
@@ -1305,7 +1305,7 @@ Soon my status changed to 'Administrative Processing':
 for anything happening after the interview and before the visa is issued.
 It dabbles as a euphemism for security checks
 which can run for months or in extreme cases even years.
-Fortunately, in my case it was just the genuine necessary processing to print the visa.
+Fortunately, in my case, it was just the genuine necessary processing to print the visa.
 
 
 # Step 12. After the Interview
@@ -1393,7 +1393,7 @@ open at the page with the visa:
 **This marked the end of the US bureaucracy being the bottleneck in my immigration.**
 The rest was my travel schedule, and even the final fee could be paid later.
 
-With the data in the visa,
+With the data on the visa,
 I was able to pay the fee for issuing a green card.
 
 After a few steps, the address from the red handout brought me to
@@ -1401,7 +1401,7 @@ After a few steps, the address from the red handout brought me to
 
 The page required my case number and the A-Number.
 The latter was found on my visa sticker
-as *registration number*.
+as the *registration number*.
 
 ![](media/334_pay-3.png)
 
@@ -1442,10 +1442,10 @@ the passport delivery status changed to **Picked Up**:
 ## Day 337
 
 They did not respond within two business days.
-So I decided to play with fire and to cut the corners of the bag.
-That allowed me to peak inside
+So I decided to play with fire and cut the corners of the bag.
+That allowed me to peek inside
 but still would keep the border officer sure
-I haven't tampered with the contents.
+I hadn't tampered with the contents.
 
 I saw a yellow paper envelope with a sheet with my data stapled to it:
 
@@ -1459,7 +1459,7 @@ but I couldn't locate it and decided to not fiddle with it any further.
 
 ## Day 339
 
-On November 3, I arrived to Dallas Fort Worth International Airport
+On November 3, I arrived at Dallas Fort Worth International Airport
 from Batumi with a layover in Istanbul
 and went to the border checkpoint for foreign nationals.
 
@@ -1475,7 +1475,7 @@ and went to the border checkpoint for foreign nationals.
 Without taking my fingerprints,
 the officer went out of his post and closed the passage before it.
 
-👮‍♂️ Follow me please.
+👮‍♂️ Follow me, please.
 
 We went to a door.
 
@@ -1504,7 +1504,7 @@ Then he just stamped my visa:
 
 ![](media/339_visa-stamped.jpg)
 
-👮‍♂️ This will serve as a proof of your permanent residency for the first year. The greencard will arrive by mail in 4 to 6 months.
+👮‍♂️ This will serve as a proof of your permanent residency for the first year. The green card will arrive by mail in 4 to 6 months.
 
 He then cut my plastic bag and got the envelope.
 It did have a seal with stamps over it.
@@ -1520,13 +1520,13 @@ The officer briefly paused at the medical exam.
 
 👮‍♂️ Non-expired, fine. You can go.
 
-He put my papers back to the envelope
+He put my papers back into the envelope
 and dropped it into a box with about 30 other envelopes
 like mine.
 I went out through a different door into America.
 
 I wanted to take a picture in the first minutes as a permanent resident
-with a large american flag in the background,
+with a large American flag in the background,
 which I believe I could easily find in any airport.
 But I found none.
 
@@ -1562,7 +1562,7 @@ On November 12, I have received my Social Security Card by mail:
 # The Expenses
 
 I spent **$7'334.76** to go through this program,
-travelling to the US excluded:
+traveling to the US excluded:
 
 ![](media/expenses.png)
 
@@ -1624,7 +1624,7 @@ This article is a part of the series:
    Download my entire petition and read
    how I chose my criteria and what to submit for them.
 3. **[Improvements to the Process I suggest](../3-improvements/README.md)**.  
-   If you work for the department of government efficiency,
+   If you work for the Department of Government Efficiency,
    read my suggestions on how to get the process from months to days
    and gain millions from immigrants paying their taxes early.
 4. **[How I can help you with your petition](../4-help/README.md)**.  

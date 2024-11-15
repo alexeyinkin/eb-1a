@@ -1,12 +1,12 @@
 # How I Wrote my EB-1A Extraordinary Ability Green Card Petition which Was Approved on the First Attempt
 
-I spend 4 months full-time writing my petition
+I spent 4 months full-time writing my petition
 starting on June 22, 2023, and filing it on November 30, 2023.
 The petition was approved shortly after on December 14
 without any additional requests.
 
-I'm not licensed to give a legal advice,
-so nothing here is a legal advice
+I'm not licensed to give legal advice,
+so nothing here is legal advice
 but just my experience.
 
 
@@ -25,11 +25,11 @@ Then I watched [a webinar by a paralegal](https://visatalantov.com)
 that explained the higher-level picture to me.
 I realized that I probably qualified
 and purchased a [$500-course](https://moovert.pro) on how to write the petition myself.
-It was vague and confusing and left me puzzled of how to actually write the thing.
+It was vague and confusing and left me puzzled about how to actually write the thing.
 
 After a month like that, I stumbled on [a petition by Razvan Marinescu](https://github.com/razvanmarinescu/EB1A),
 a Romanian-British scientist who was approved for EB-1A and published his entire petition.
-It clicked, and I then my full-time phase began.
+It clicked, and then my full-time phase began.
 
 Some people are readily qualified for the program.
 They don't need to present many details
@@ -41,7 +41,7 @@ and *just* over 150 pages long.
 On the other hand, my qualification for the program
 was less straightforward,
 so I had to provide more proof
-and be careful explaining every point.
+and be careful in explaining every point.
 I extended the logic I had seen in Razvan's petition
 to 3 other criteria (I used 7)
 and improved the navigation a little bit.
@@ -110,7 +110,7 @@ I have chosen science and the field of *Software Development* within it.
 
 If I had to do this again, I would go in this order:
 
-1. Brainstorm the instances on which I meet the criteria.
+1. Brainstorm the instances in which I meet the criteria.
 2. Describe those instances in text and prepare exhibits that support those claims **[takes 90% of the time]**.
 3. Write the Final Merit Determination with every achievement that didn't work towards a criterion.
 4. Write the Summary from the criteria texts.
@@ -124,7 +124,7 @@ If I had to do this again, I would go in this order:
 Up next is how I did all of that.
 
 
-## Step 1. Brainstorm the Instances on which I Meet the Criteria
+## Step 1. Brainstorm the Instances in which I Meet the Criteria
 
 The 10 possible criteria are described
 [here in short](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1)
@@ -142,7 +142,7 @@ but the official program description was simple and clear.
 I brainstormed what I could present for each criterion.
 For some, it was multiple instances.
 I aimed not only for the high number of the criteria
-but also for the high number of the instances of those criteria.
+but also for the high number of instances of those criteria.
 
 #### I Already Had:
 
@@ -166,7 +166,7 @@ but also for the high number of the instances of those criteria.
 [The Policy Manual](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2)
 has a convenient provision.
 If a criterion is not readily applicable to one,
-they can submit an evidence of anything else comparable to that in nature and merit.
+they can submit evidence of anything else comparable to that in nature and merit.
 
 In my case, scientific articles were not readily applicable to me
 because I work in the industry and not in academia.
@@ -197,9 +197,9 @@ who also promote the use of those technologies.
 
 Let's use this piece as an example to learn the algorithm I used to prove any criterion.
 
-The proof of a criterion consisted of text in a free from
+The proof of a criterion consisted of text in a free form
 and some exhibits to support it.
-All exhibits went in the end of the petition.
+All exhibits went to the end of the petition.
 It's just to make this excerpt consumable
 that I put them right after the text.
 
@@ -238,7 +238,7 @@ so the officer knew where to look for each item on their checklist.
 
 I ordered the four subsections to form a logical progression,
 and also to lead the reader to the punch line at the end
-that the award put me in top 0.025% in my specialty.
+that the award put me in the top 0.025% in my specialty.
 
 [The Policy Manual](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2)
 had more to say on the criterion,
@@ -266,7 +266,7 @@ of what can go wrong
 (of course, it only has the most common problems,
 and each case can be deficient in its own unique ways).
 
-In case of the award criterion, the template has the following concerns:
+In the case of the award criterion, the template has the following concerns:
 
 - ***Award(s) Appear to be Local or Regional***.
 This produced the fourth subsection in my text.
@@ -292,7 +292,7 @@ but mostly they were screenshots of public pages:
 
 This means that almost 80% of the claims in my case
 could be verified online without even calling anyone.
-This could have been a factor to my approval.
+This could have been a factor in my approval.
 This could also have been a factor
 to the green light at my visa interview,
 but you never know.
@@ -302,14 +302,14 @@ for each type of exhibits [soon](#formatting-the-exhibits).
 
 Obviously, I found verifiable stuff better,
 but sometimes I also used materials
-that are hard or even impossible to verify when I had to.
+that were hard or even impossible to verify when I had to.
 In my opinion, they are better than nothing.
 
 ### Proving Each of My Criteria Instances
 
-For you convenience,
+For your convenience,
 I extracted the text on each instance of each criterion
-and put exhibits it references just after it.
+and put exhibits it referenced just after it.
 In my complete petition,
 first went all the texts, and then all the exhibits.
 
@@ -343,7 +343,7 @@ and I could find two reasons for that:
 
 1. Together with the membership, one gets a badge
 on [their Google Developer profile](https://developers.google.com/profile/u/alexey-inkin)
-that read *'Was awarded the title of Google Developer Expert in 2023'*.
+that reads *'Was awarded the title of Google Developer Expert in 2023'*.
 
 2. Google gives out [physical plaques to GDEs](https://www.google.com/search?client=firefox-b-d&sca_esv=58722b6aa619540f&q=google+developer+expert+plaque&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf9q37Zv4dbJ4TW_6SnErfFZ77vWA-JewUZjVu3roP919JJ7LB0XgUlbeu3TIUlWj0Hp1JHzwq5YPaSgTTkAC-edWrnsX-_paLirvXRRRiouDZnf1O&sa=X&ved=2ahUKEwj7n7vB7LiJAxXNSfEDHYCOEi8QtKgLegQIERAB&biw=1320&bih=787&dpr=2),
 and they look awardish, but I didn't have time to get one.
@@ -372,7 +372,7 @@ However, that was not the center point for in claim,
 so I thought it didn't matter much.
 In a subsequent petition I was helping with,
 my customer used the LinkedIn page of StackOverflow with over 1.5 million followers,
-and I think it was a much better proof.
+and I think it was much better proof.
 
 Finally, I showed that on LinkedIn,
 [GDE](https://www.linkedin.com/company/experts-program/)
@@ -422,7 +422,7 @@ because the organizer [has deleted the website with the award records](https://m
 I had the screenshots made before that
 but decided to not use them
 to not give an officer a pretext to issue an RFE.
-So I had scrapped for what had been preserved in secondary sources.
+So I scrapped what had been preserved in secondary sources.
 
 News outlets
 [preserved](https://rsv.ru/news/1/2581/)
@@ -441,20 +441,19 @@ since the management had changed.
 I had to include a digital diploma I had,
 which was not a solid proof because anyone could photoshop that in minutes.
 
-For a better proof, I included the screenshot
+For better proof, I included the screenshot
 of
 [the broadcast of our team presenting our solution](https://youtu.be/53Pdbeo0EJc?si=Fq5eHnDjBex90tEk&t=13364).
 It was preserved on the organizer's YouTube channel.
 
 Finally, I approached one of the top officials who ran the event back then.
-They were offended by their legacy deleted,
+They were offended by their legacy being deleted,
 and they gave me a LinkedIn recommendation confirming my award.
 I have hidden this recommendation after my immigrant visa was approved
 to not get that official overwhelmed with similar requests.
 
 To prove that the award is in the field of software development,
 I asked the official to put judging criteria into their LinkedIn recommendation for me.
-I also attached a piece of news hinting the criteria.
 
 As for the recognition of the award, that was easy.
 My government goes far advertising this competition.
@@ -462,7 +461,7 @@ They
 [announce](https://minobrnauki.gov.ru/press-center/news/anonsy/31762/)
 it on the Ministry of Science website
 and many other venues.
-I also included the Putin's decree that established the organizer's body.
+I also included Putin's decree that established the organizer's body.
 
 All that said, I had to be extremely careful
 to not make a false impression that I won the final,
@@ -498,7 +497,7 @@ Pay special attention to the section *'Put what you want to be honored for'*.
 
 It's debatable whether IEEE Senior Membership qualifies for EB-1A.
 This membership requires *significant performance for 5 years*,
-and an officer must decide how it compares to *outstanding achievement*
+and an officer must decide how it compares to the *outstanding achievement*
 that EB-1A requires for associations.
 I know of cases where this membership was counted,
 and I've also seen an RFE explaining why it does not count.
@@ -532,7 +531,7 @@ and used a quote from
 
 The last thing to prove was that candidates for this membership
 are judged by established professionals in the field.
-I attached the screenshots from IEEE website about that
+I attached the screenshots from the IEEE website about that
 and
 [the profile of the committee chair at the time](https://www.linkedin.com/in/zuhainazakaria/).
 To me, her profile was high.
@@ -543,7 +542,7 @@ when I started writing this section of my petition.
 If I had to do this over again and was not in a hurry,
 I would have researched my potential references
 to pick the strongest ones.
-I think that strong references may even make up for the uncertainty in the outstanding achievements point
+I think that strong references may even make up for the uncertainty in the point of the outstanding achievements
 if the officer is on the fence about it.
 
 #### 2. Association — Google Developer Experts
@@ -560,19 +559,19 @@ I decided to reuse GDE as an association
 because it's most often defined as a community in its documentation.
 In
 [my public profile](https://developers.google.com/profile/u/alexey-inkin),
-I had not only the award badge,
+I had not only the award badge
 but also *'Google Developer Experts member'* badge.
 
 The EB-1A experts I purchased a course from
-advised to not do that because they have seen RFEs
-telling that a single merit can only be used towards no more than one criterion,
+advised me to not do that because they have seen RFEs
+saying that a single merit can only be used towards no more than one criterion,
 but I decided to give it a try anyway.
 
 To prove that the GDE is a community of experts in software development,
-I used a quote from the Google's letter I had.
+I used a quote from Google's letter I had.
 
 To prove the requirement of outstanding achievements,
-I just used the number of the members.
+I just used the number of members.
 I could potentially quote the number of Flutter developers worldwide
 to establish a tiny percentage of those who got the distinction
 as I did for the GDE award but for some reason I haven't done that.
@@ -628,7 +627,7 @@ and their achievements were outstanding indeed.
 Then, to prove the high rank of the association,
 I quoted Wikipedia and Samsung again.
 In a subsequent petition I was helping with,
-my customer used the association's tax return publicly available from IRS
+my customer used the association's tax return publicly available from the IRS
 that featured over 1 billion dollars in assets,
 which I think was a killer point.
 
@@ -661,13 +660,13 @@ He initially agreed.
 Then I told him I needed a physical paper
 with his signature mailed to me,
 and then he changed his mind and said he had no time for that.
-I offered to send a courier to him to pick up the paper,
-or even to do with just a scan.
+I offered to send a courier to him to pick up the paper
+or even to go with just a scan.
 He has read those messages and never replied.
 I believe he was afraid of misuse of his signature
 because he only knew me briefly 3 years ago.
 
-This is an example of how a bad advice
+This is an example of how a piece of bad advice
 from incompetent course authors can hurt your petition.
 See [the section on supporting letters](#getting-the-support-letters) below
 on how to not scare people away.
@@ -675,10 +674,10 @@ on how to not scare people away.
 So I had to reach out to the broader PHP community
 by cold-mailing the world's top developers.
 The response rate was below 10%,
-most of those responded refused,
+most of those who responded refused,
 and I noticed my messages going to spam after a while.
 
-After all, my message really awkward:
+After all, my message was really awkward:
 
 > Hi. You don't know me, but I made an improvement
 > in a tool you've heard of but not necessarily use.
@@ -693,7 +692,7 @@ Then I quoted them to prove the significance of my contribution.
 
 I asked the first expert to write the letter in two parts.
 The first part was in simple words
-for the officer to get the general idea,
+for the officer to get a general idea,
 and the second one had technical details
 should anyone care to learn them or challenge my contribution.
 
@@ -740,7 +739,7 @@ However, the classifier only had *'Editors'* category back then.
 That was terrible because non-code editors are naturally way more popular.
 Explaining that to an officer would be very painful.
 Even if every point of mine was reasonable,
-too long chain of assumptions would not look solid.
+too long a chain of assumptions would not look solid.
 After all, I was seeking to prove
 a contribution of major significance
 to the field of software development.
@@ -750,14 +749,14 @@ and [persuaded](https://github.com/fluttergems/fluttergems/issues/162)
 them to extract the code editors to a separate category.
 If you look at the timeline of that discussion,
 you get the idea of how you can get blocked by a trivial issue
-and why it's important to initiate early the long processes what can block you.
-See [the section on prioritizing the work](#prioritizing-the-work) blow.
+and why it's important to initiate early the long processes that can block you.
+See [the section on prioritizing the work](#prioritizing-the-work) below.
 
 When I got [a separate category](https://fluttergems.dev/editor-syntax-highlighter/),
-I went through it and showed which editors competed to ours.
+I went through it and showed which editors competed with ours.
 
 A top code editor still didn't mean it was important.
-So I quoted my letters from Google an Akvelon on the matter.
+So I quoted my letters from Google and Akvelon on the matter.
 I also found an expert in code editors with a solid public profile.
 He wrote a letter for me
 and explained the advantages of my solution.
@@ -769,7 +768,7 @@ I reached out to the authors of a few of those projects.
 To my surprise, a project with over 2700 stars
 had an anonymous author.
 I learned the hard way how easy it was to scare away a potential supporter,
-so instead of prompting for their identity
+so instead of prompting for their identity,
 I asked them to write a review [in a GitHub issue
 I created specifically for this purpose](https://github.com/alexeyinkin/recommendations/issues/1).
 Then I linked their review with their authorship of the project.
@@ -806,7 +805,7 @@ So I decided to show how it compared to scientific articles.
 My reading of the policy on this criterion
 was that it required human selection of my works
 as the key factor.
-Sheer view statistics was insufficient
+Sheer view statistics were insufficient
 because an officer would not know what to compare my figures with,
 nor could they know that the views were organic
 and not generated by robots or advertising campaigns.
@@ -822,21 +821,21 @@ I had three occasions:
    to be recommended to those not following me.
    This program ran before 2022 and was later shut down.
 2. [One of my articles](https://medium.com/@alexey.inkin/never-have-separate-sign-in-routes-7c9a6dd4dc7c)
-   was selected my the Medium editors
-   for much more prestigious *'Boost'* program.
+   was selected by the Medium editors
+   for the much more prestigious *'Boost'* program.
    Unlike the older discontinued program,
    the new boosts were much more rare
    and generated way more views.
 3. A company named [FlutterDevs](https://flutterdevs.com)
    posted [my article](https://www.linkedin.com/posts/flutterdevs_the-new-lint-in-dart-32-activity-7134770920694423552--ybf/)
    on their LinkedIn page
-   with extraordinary number of followers.
+   with an extraordinary number of followers.
 
-Here are more details on how I described each of that.
+Here are more details on how I described each of them.
 
 ##### Older Medium Recommendations
 
-First, I quoted the Medium's guidelines for the program
+First, I quoted Medium's guidelines for the program
 which established that the distributed articles were considered *the best*.
 Then I attached the private statistics of my articles
 that showed 8 of my 10 articles by then were recommended.
@@ -846,7 +845,7 @@ to quantify that privilege.
 ##### Newer Medium Boost
 
 For this one, I could come up with an estimate
-that it put my article into top 0.52%.
+that it put my article into the top 0.52%.
 
 For that, I quoted many posts about the program
 and scrapped some figures.
@@ -918,7 +917,7 @@ Since I only contributed to Apache Beam,
 a single project in the Apache Software Foundation,
 I had to prove the project's distinction within the foundation.
 
-For that, I showed that it was one of the top-starred ones,
+For that, I showed that it was one of the top-starred ones
 and one with the highest commit frequency.
 According to [their annual report](https://apache.org/foundation/docs/FY2023AnnualReport.pdf#page=22),
 Apache Beam was *the most* committed-to repository,
@@ -932,7 +931,7 @@ even had the links
 to both of the products we made for them,
 so I attached that screenshot as well.
 
-Note that I started each of the texts on my critical roles with *'Context'* section.
+Note that I started each of the texts on my critical roles with the *'Context'* section.
 This is because I find the descriptions for this criterion hard to follow otherwise.
 
 #### 8. Role — Akvelon
@@ -953,7 +952,7 @@ but also for Akvelon.
 
 First, I established my hire by attaching my contract with Akvelon.
 
-Second, I quoted their supporting letter to prove my critical role,
+Second, I quoted their supporting letter to prove my critical role
 and the proof of the position of the letter's author.
 
 I also claimed a leading role
@@ -980,7 +979,7 @@ qpdf inkin.pdf --pages . 50-52,119-122,248,265-276,277-279,280-282,283-287,288,2
 
 [Download the excerpt](https://github.com/alexeyinkin/eb-1a/releases/latest/download/role-calltouch.pdf) | [Go to Page 50 in the petition](https://github.com/alexeyinkin/eb-1a/releases/latest/download/inkin.pdf#page=50)
 
-For this company, I attached my contract as the proof of work,
+For this company, I attached my contract as the proof of work
 and a supporting letter on my critical role.
 
 For the proof of the distinguished reputation,
@@ -1026,7 +1025,7 @@ qpdf inkin.pdf --pages . 63-65,241-247,392-393,394-397,398-399,400-401,402,403-4
 
 [Download the excerpt](https://github.com/alexeyinkin/eb-1a/releases/latest/download/salary.pdf) | [Go to Page 63 in the petition](https://github.com/alexeyinkin/eb-1a/releases/latest/download/inkin.pdf#page=63)
 
-I had a year working for a [Georgian](https://en.wikipedia.org/wiki/Georgia_(country)) company
+I spent a year working for a [Georgian](https://en.wikipedia.org/wiki/Georgia_(country)) company
 when my salary was 2.02 times
 the average programmer's salary in the country.
 
@@ -1056,11 +1055,11 @@ on programmers split by quarters
 but couldn't get through the redirects.
 So I just sent my agent to walk in and negotiate it.
 They said to her that my email was being processed,
-and they would get back to me with the available occupations and price.
+and they would get back to me with the available occupations and prices.
 In a few days, they responded, and we agreed on the details.
 I sent my agent again to pick it up.
 Interestingly, they didn't charge her,
-although they have price tag on custom reports.
+although they had a price tag on custom reports.
 Well, that's Georgia.
 
 I've heard that an officer often requires
@@ -1111,17 +1110,17 @@ and demanding to show their chats before the stories ran.
 
 Apart from those practical concerns, there are spiritual ones.
 Any cheating plants a weakness in you.
-When I will run for the Senate,
+When I run for the Senate,
 I don't want a journalist working for the other party
 to be able to sink me on that.
 I don't want another episode
-which would get me embarrassed or secretive.
+that would get me embarrassed or secretive.
 
 #### 6. Scientific Articles
 
 This criterion was designed to judge the research
 done by true scientists.
-A research done in the natural course of one's career
+Research done in the natural course of one's career
 is radically different from research
 for the sheer purpose of publishing.
 
@@ -1134,7 +1133,7 @@ The phony options included:
 
 - Trash-publishing.
   There are many trash journals
-  that capitalize on once acquired rating
+  that capitalize on once-acquired ratings
   and will take any paper for money.
   Those papers show on your Google Scholar profile
   just like legitimate ones.
@@ -1142,14 +1141,14 @@ The phony options included:
 - Ghost-writing.
   Not only is it criminal
   to submit someone else's papers for an immigration benefit,
-  it's also very embarrassing.
+  but it's also very embarrassing.
   AI will be able to tell such articles very soon.
 
 For the same reasons as with media coverage,
 I did not pursue this criterion.
 
 Generally speaking,
-I would never suggest to develop a criterion
+I would never suggest developing a criterion
 you would not want for its own merit.
 
 #### 7. Exhibitions
@@ -1172,7 +1171,7 @@ would be hard to prove otherwise.
 
 Some suggest sending out requests for supporting letters
 to every prominent figure they know in the field
-and ask them to evaluate the record
+and asking them to evaluate the record
 and support the claims in the case.
 
 I didn't like this idea of nearly-cold mailing.
@@ -1192,11 +1191,11 @@ then mailed to me so that I could bring the original to my visa interview.
 While this was the most desirable format indeed,
 many people were reluctant to do that.
 This format is so rare nowadays
-that whose who don't know you well suspect fraud.
+that those who don't know you well suspect fraud.
 
 I came up with the following tactic.
 First, I would ask if they could sign a reference for me
-without telling anything about the process or the format.
+without saying anything about the process or the format.
 When they agreed, I would say:
 
 > The simplest way is a LinkedIn recommendation you can write for me.
@@ -1205,18 +1204,18 @@ When they agreed, I would say:
 > However, if you can spend a bit more time,
 > then my advisor said that the program has the following preference:
 >
-> 1. A perfect letter is on paper physically signed.
+> 1. A perfect letter is on paper and physically signed.
 >    If you can print it, sign and FedEx it to me,
 >    that would be perfect.
 >    Of course, I will compensate for the FedEx fee.
 >    FedEx (or any other delivery)
->    is preferred over the regular mail,
+>    is preferred over regular mail
 >    because mail is unreliable in my location,
 >    I had letters lost before.
 > 2. If that is too much of an effort to ask,
 >    the next preference is printed, signed,
 >    and scanned or photographed.
->    But I am limited in how many of the letters
+>    However, I am limited in how many of the letters
 >    can be non-paper.
 >    If too many, this affects the petition.
 > 3. If that is too much still,
@@ -1271,18 +1270,18 @@ because I've heard people getting RFEs because of image manipulation.
 Most of the time,
 I would shrink the browser window
 just above the breakpoint
-that would turn the page to 'mobile' mode.
+which would turn the page to 'mobile' mode.
 It would make the font size larger
 for both the text and the URL,
-and at the same time the 'mobile' mode
-would not turn page unrecognizable by an officer.
+and at the same time, the 'mobile' mode
+would not turn the page unrecognizable by an officer.
 
 ##### If Everything Fits
 
 This narrow crop shows the number of followers
 because this is the only thing I wanted to highlight
 in this screenshot.
-It can be done with regular screenshot functionality
+It can be done with the regular screenshot functionality
 of your computer.
 
 ![](../latex_public/Exhibits/Other/GdeOscarsFollowers/linkedin-followers-gde.png)
@@ -1324,12 +1323,12 @@ and align them pixel-perfectly.
 I trained to do this in less than a minute.
 I personally don't think this edit is bad
 because it does not interfere with the content.
-But that's not a legal advice, same as everything here.
+But that's not legal advice, same as everything here.
 
 Then I would cut the long image into parts
-and put each at a separate page.
+and put each on a separate page.
 I would write *'(continued on next page)'* before each break
-so the officer knew there's more to this evidence.
+so the officer knew there was more to this evidence.
 After a break, I would write *'(continuing)'*
 so the officer knew there was something before it
 if they randomly navigated to the petition page.
@@ -1338,7 +1337,7 @@ After the part of interest,
 I would normally terminate the screenshot.
 However, for some pages I would write *'(bottom skipped)'*.
 Specifically, I did it with a screenshot of one of my articles
-because I didn't want an impression that it was short.
+because I didn't want the impression that it was short.
 
 Scroll through the exhibits of my petition for various examples of that.
 
@@ -1362,7 +1361,7 @@ and the fragment identifier with '#' sign
 is added to the address bar.
 
 In those cases, I didn't include the top of the page.
-Should an officer verity the screenshot,
+Should an officer verify the screenshot,
 they could navigate to the address with the '#' sign,
 and the page would scroll to the position at the screenshot.
 
@@ -1406,19 +1405,19 @@ before the screenshot:
 Sometimes I wanted to emphasize that one page led to another.
 In that case, I would move the pointer over the link
 and take a screenshot with the pointer (a Mac can do that easily).
-The browser would show the address in the bottom-left corner:
+The browser will show the address in the bottom-left corner:
 
 ![](../latex_public/Exhibits/Other/BeamHome/beam-home.png)
 
-Then I would describe it in text so the officer noted.
+Then I would describe it in text so the officer noted it.
 
 ##### Showing Actions
 
 Sometimes I wanted to show some action needed.
-In that case I would show the mouse cursor
+In that case, I would show the mouse cursor
 or hover over a dropdown list item.
-For instance, on this screenshot, I showed
-how to sort the repositories (wish I showed the mouse pointer too):
+For instance, in this screenshot, I showed
+how to sort the repositories (wish I had shown the mouse pointer too):
 
 ![](../latex_public/Exhibits/Other/BeamGitHubStars/beam-github-stars-dropdown-p1.png)
 
@@ -1429,7 +1428,7 @@ Examples include the IEEE Senior Member Review Panel screenshots
 and statistics of my articles on Medium.
 Still, I made those screenshots the same way with the address bar visible.
 I felt like it would make them more credible.
-For every private screenshot I disclosed that explicitly
+For every private screenshot, I disclosed that explicitly
 so that the officer would know he can't navigate there
 and not issue an RFE asking to clarify that.
 
@@ -1489,9 +1488,9 @@ I highly recommend [iTrex translation agency](https://itrex.ru) for that.
 They can do tens of languages.
 Being Russian, they are especially good with it.
 I had problems with them translating from Kyrgyz,
-but then they replaced the translator, and it was fine since.
+but then they replaced the translator, and it has been fine since.
 
-I also had [Moovert](https://moovert.pro) translated some texts for me,
+I also had [Moovert](https://moovert.pro) translate some texts for me,
 but they were only able to translate from Russian to English.
 They also happened to be overloaded when I needed them the most,
 so I switched to iTrex.
@@ -1507,13 +1506,13 @@ However, here's what I made sure they adhered to:
 
 - The translation must be certified.
   We used the following text:
-> I (name) am competent to translate from Russian to English,
+> I (name) am competent to translate from Russian to English
 > and certify that the translation of this document is true, accurate, and complete to the best of my abilities.
 >
 > (Signature)
 
 - I didn't put any contact details of the translators.
-  Later I've heard the contact details were desirable.
+  Later I heard the contact details were desirable.
 - I made them put a certification at the end of each document although some put the certification only at the end of the petition.
 
 #### Positioning the Translation
@@ -1527,14 +1526,14 @@ and then just have a glance at the original.
 
 In a few cases where translators failed me with formatting,
 I did the reverse and put the original first
-so the officer could develop some trust to the exhibit
+so the officer could develop some trust in the exhibit
 by looking at the well-formatted original.
 
 I appended 'With translation to English'
 to the title of each exhibit that had a translation.
 It may have prevented some confusion
-when the officer would navigate the URL
-but see the text in a different language.
+when the officer navigated the URL
+but saw the text in a different language.
 
 #### Translating Text on Images
 
@@ -1550,7 +1549,7 @@ This turned into:
 ![](media/exhibits/3_16_book-clay_en_public.png)
 
 The agency did a good job matching the text color,
-font, position and slight rotation.
+font, position, and slight rotation.
 
 On the other hand, Moovert kept an image intact
 and added a textual note under it.
@@ -1572,7 +1571,7 @@ qpdf inkin.pdf --pages . 72-77,98-104,105-113,116,117,118,119-122,123,124,125-12
 [Download the excerpt](https://github.com/alexeyinkin/eb-1a/releases/latest/download/merits.pdf) | [Go to Page 72 in the petition](https://github.com/alexeyinkin/eb-1a/releases/latest/download/inkin.pdf#page=72)
 
 If one proves they meet 3 criteria,
-it does not automatically mean an approval.
+it does not automatically mean approval.
 I've heard of cases with up to 7 criteria counted,
 but the officer ruled there was still no sustained international acclaim
 and that the person has not risen to the top of their field.
@@ -1581,7 +1580,7 @@ I still wanted to avoid that ground for denial.
 This is why I included this section to specifically address that potential concern.
 
 In this part, I wrote my short biography
-focusing on achievements.
+focusing on my achievements.
 I put up a few lines about every achievement,
 no matter if it was used in a criteria or not.
 
@@ -1595,7 +1594,7 @@ I found that the best punchline for that
 was the percentage of the experts where my GDE award put me.
 
 Writing this section was my favorite part of the process.
-After months of hard work to prepare all evidence,
+After months of hard work to prepare all the evidence,
 I just relaxed and let it flow,
 pure awesomeness without pausing for boring parts
 like proving some irrelevant technicalities
@@ -1606,7 +1605,7 @@ Prior to that, writing the petition got me down.
 I had a lot of rejections from experts over support letters.
 I got tired from having to go through some lazy people on my way.
 I was worried about some shaky points and the overall quality of the petition.
-And finally I got into this stream of pure awesomeness.
+And finally, I got into this stream of pure awesomeness.
 
 The most satisfying was that I finally could put
 my early immature work to use.
@@ -1616,11 +1615,11 @@ but no one else remembered it or could appreciate it if seen.
 It was my dire regret that those good times
 when that was sufficient for recognition are gone,
 that I failed to become a game-dev rock star,
-and that I was a grown-up obliged to have fun *less* than 100% of time.
+and that I was a grown-up obliged to have fun *less* than 100% of the time.
 And now all of those moments and aspirations
 from my teen years have risen from oblivion,
 channeled into a useful purpose
-of producing an extraordinary merit in the adult world,
+of producing extraordinary merit in the adult world,
 and will persist here forever.
 
 ![](../latex_public/Exhibits/Other/Lehasoft/lehasoft-hotbox.png)
@@ -1662,18 +1661,18 @@ must be shown to substantially benefit the United States in the future.
 
 I took my achievements and projected the trends into the future.
 My chain of assertions was the following:
-1. Software is one of the fastest growing sectors of the economy.
-2. Mobile is one of the fastest growing sectors of software.
+1. Software is one of the fastest-growing sectors of the economy.
+2. Mobile is one of the fastest-growing sectors of software.
 3. Flutter cuts the cost of mobile software development by 70% and is the most popular solution for its purpose.
 4. I am one of the world's top 105 experts in Flutter.
 
 When I combined that together,
 the substantial benefit was straightforward to me.
 Then I found facts to support those claims
-and attached them in the exhibits.
-I felt it was important to use the official US sources
+and attached them to the exhibits.
+I felt it was important to use official US sources
 like [The Bureau of Economic Analysis](https://www.bea.gov/system/files/2022-11/new-and-revised-statistics-of-the-us-digital-economy-2005-2021.pdf).
-I hoped that officers do trust the data of their government,
+I hoped that officers would trust the data of their government,
 and also those quotes would have shown
 I had done my homework.
 
@@ -1693,13 +1692,13 @@ qpdf inkin.pdf --pages . 81-82,552,556,557 -- ../2-petition/media/excerpts/work-
 
 [Download the excerpt](https://github.com/alexeyinkin/eb-1a/releases/latest/download/work-plan.pdf) | [Go to Page 81 in the petition](https://github.com/alexeyinkin/eb-1a/releases/latest/download/inkin.pdf#page=81)
 
-I needed to show that I will continue my work
+I needed to show that I would continue my work
 in the field in the United States.
 
 Some stress the importance of showing a job offer here.
 If I was an officer,
 I would indeed be more satisfied
-with a job offer than by just a plan.
+with a job offer than with just a plan.
 However, a job offer is not legally required for this program,
 and that's the reason many choose it
 in the first place.
@@ -1743,7 +1742,7 @@ qpdf inkin.pdf --pages . 80 -- ../2-petition/media/excerpts/conclusion.pdf
 This one was a trivial formality.
 
 I put my achievements in one sentence
-and asked them for the approval.
+and asked them for approval.
 
 ## Step 8. Write a Cover Letter
 
@@ -1762,7 +1761,7 @@ to be an editcat rather than a copycat.
 
 ## Step 9. Fill out the Forms
 
-A friendly reminder that nothing here is a legal advice.
+A friendly reminder that nothing here is legal advice.
 This is just how I did what I did.
 
 Some of these forms have changed since I filed them.
@@ -1773,7 +1772,7 @@ Some of these forms have changed since I filed them.
 
 [Download the excerpt](../latex_public/Forms/g-1145_public.pdf) | [Go to Page 2 in the petition](https://github.com/alexeyinkin/eb-1a/releases/latest/download/inkin.pdf#page=2)
 
-I put my email to receive my case number
+I entered my email to receive my case number
 and not having to wait for a paper response.
 
 ### I-140
@@ -1811,7 +1810,7 @@ I didn't have a fax to put in the form.
 I hoped that if they were to issue an RFE
 they would send it over email and not only the physical mail.
 
-Later I've learned that many people did not get their RFEs electronically
+Later I learned that many people did not get their RFEs electronically
 neither over email nor over fax initially,
 but only got a notice of an RFE over email.
 I know of people successfully calling USCIS
@@ -1833,7 +1832,7 @@ The last thing I updated was the first page
 with the Table of Contents.
 
 The things I paid attention to were:
-- The figures of the fees.
+- The figures for the fees.
 - A visa in my older passport.
 - The total number of exhibits, as I haven't automated its calculation yet.
 
@@ -1841,13 +1840,13 @@ The things I paid attention to were:
 
 ### Gantt Chart
 
-I estimate that I had lost a month
+I estimate that I lost a month
 while working on my petition
 by not starting early the tasks
-that rely on someone else and that blocked me later on.
+that relied on someone else and that blocked me later on.
 
 If I had to do this over again,
-I would start with writing down every task
+I would start by writing down every task
 that I need to complete the petition
 (which I would derive from my plan
 on each of the criteria,
@@ -1904,7 +1903,7 @@ and found Monday to be the most convenient of them.
 
 ### Choosing the Format
 
-Some popular formats to write the petition document include:
+Some popular formats for writing the petition document include:
 
 - [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/word).
 - [Google Docs](https://google.com/docs).
@@ -1934,9 +1933,9 @@ you convert it to PDF with [a simple tool](#latex-tools).
 - You can use high-level reusable pieces of content and formatting.
   A good example is the formatting of quotes.
   My command for inserting a quote
-  gives you compile-time guarantee
+  gives you a compile-time guarantee
   that you don't forget to link an exhibit at the end.
-- You store your images and included PDFs
+- You store your images and the included PDFs
   as external files so nothing can be
   accidentally deleted or over-compressed.
 - PDFs prepared separately (like forms)
@@ -2053,7 +2052,7 @@ This article is a part of the series:
    up to my arrival in the US.
 2. **The Petition [You Are Here]**.
 3. **[Improvements to the Process I suggest](../3-improvements/README.md)**.  
-   If you work for the department of government efficiency,
+   If you work for the Department of Government Efficiency,
    read my suggestions on how to get the process from months to days
    and gain millions from immigrants paying their taxes early.
 4. **[How I can help you with your petition](../4-help/README.md)**.  

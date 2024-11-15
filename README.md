@@ -1,21 +1,21 @@
 # How I got EB-1A green card for extraordinary ability
 
-I was approved a United States green card for extraordinary ability in science (I am a programmer)
+I was approved for a United States green card for extraordinary ability in science (I am a programmer)
 in 2024.
 
 ![](1-process/media/334_visa.jpeg)
 
-*(This immigrant visa is a legal equivalent of a green card
+*(This immigrant visa is the legal equivalent of a green card
 while I'm waiting for the green card to arrive by mail in a few months).*
 
 This is the most complete and detailed free instruction on this program you will find online.
 It includes my complete petition with only a few private things blacked out,
 every form I filled out, and every piece of interaction with each of the United States bodies I went through.
-All that said, **I am not a lawyer, and none of this is a legal advice**.
+All that said, **I am not a lawyer, and none of this is legal advice**.
 
 What makes this program stand out is that it doesn't require any job offers, relatives, or other invitations.
 It's also not a lottery, and every applicant who is found eligible gets a green card.
-One just needs to write out the proof of their extraordinary ability against formally defined criteria,
+One just needs to write out the proof of their extraordinary ability against formally defined criteria
 and go through some paperwork and vetting.
 This gives the most freedom before and after immigration, that's why I have chosen it.
 
@@ -43,7 +43,7 @@ the process of writing it, my strategy for each criterion, and all the reasoning
 
 ## [3. Improvements to the Process I Suggest](3-improvements/README.md)
 
-If you work for the department of government efficiency,
+If you work for the Department of Government Efficiency,
 read my suggestions on how to get the process from months to days
 and gain millions from immigrants paying their taxes early.
 [Read my suggestions here](3-improvements/README.md).
