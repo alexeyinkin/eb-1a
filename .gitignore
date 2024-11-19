@@ -7,3 +7,6 @@
 
 latex_public/inkin.*
 !latex_public/inkin.tex
+
+latex_public_ru/inkin_ru.*
+!latex_public_ru/inkin_ru.tex

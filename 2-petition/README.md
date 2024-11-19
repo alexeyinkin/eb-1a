@@ -35,7 +35,7 @@ Some people are readily qualified for the program.
 They don't need to present many details
 because each one is stunning.
 Razvan was like that, and his petition was short,
-with 4 solid criteria, only 25 exhibits,
+with 4 solid criteria (there are the total of 10 criteria in the program, one must meet any 3 of them), only 25 exhibits,
 and *just* over 150 pages long.
 
 On the other hand, my qualification for the program
@@ -218,7 +218,7 @@ These subsections are directly derived from what I thought USCIS wanted to see.
 #### Deriving the Subsections from The Policy Manual
 
 In [The Policy Manual](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2),
-navigate to the first criterion.
+navigate to the first criterion ("Awards").
 These logical points are explicitly mentioned:
 - ***"First, USCIS determines if the person was the recipient of prizes or awards."***
 This produced the first subsection for me.
@@ -371,7 +371,7 @@ and I've seen RFEs challenging references to Wikipedia.
 However, that was not the center point for in claim,
 so I thought it didn't matter much.
 In a subsequent petition I was helping with,
-my customer used the LinkedIn page of StackOverflow with over 1.5 million followers,
+my customer used [the LinkedIn page of StackOverflow](https://www.linkedin.com/company/stack-overflow/) with over 1.5 million followers,
 and I think it was much better proof.
 
 Finally, I showed that on LinkedIn,
@@ -719,10 +719,11 @@ qpdf inkin.pdf --pages . 59-62,116,118,125-126,231-235,249-251,369-371,372,373,3
 
 To give an officer context, I started by explaining what
 [Flutter](https://flutter.dev) was
-and what [Flutter Code Editor](https://pub.dev/packages/flutter_code_editor) was.
+and what [Flutter Code Editor](https://pub.dev/packages/flutter_code_editor) was
+(a code editor component that could be used in any Flutter app).
 
 To prove that I was the primary author of the editor,
-I quoted the support letter from Akvelon,
+I quoted the support letter from Akvelon where I worked back then,
 [the commit count at GitHub](https://github.com/akvelon/flutter-code-editor/graphs/contributors),
 and [an article in Akvelon's blog](https://akvelon.com/flutter-code-editor/).
 
@@ -945,7 +946,7 @@ qpdf inkin.pdf --pages . 48-49,118,240,241-247,248,249-251,252-255,256-257,258-2
 [Download the excerpt](https://github.com/alexeyinkin/eb-1a/releases/latest/download/role-akvelon.pdf) | [Go to Page 48 in the petition](https://github.com/alexeyinkin/eb-1a/releases/latest/download/inkin.pdf#page=48)
 
 [Akvelon](https://akvelon.com)
-is a US company that got a contract from The Customer we can't name
+is a US company that got a contract from The Customer
 to do that open-source job for Apache I mentioned earlier.
 Therefore, that Apache job was critical not only for the Apache Software Foundation,
 but also for Akvelon.
@@ -1031,7 +1032,7 @@ the average programmer's salary in the country.
 
 Many people suggest filing a full calendar year's salary
 in this criterion.
-However, my year was June 2023 through June 2024,
+However, my year was June 2022 through June 2023,
 and no full calendar year would show the salary as high as this specific range.
 So I decided to present the range.
 
@@ -1266,6 +1267,8 @@ I wanted it to have a URL and the content of interest,
 ideally nothing more.
 That said, I could not edit the images
 because I've heard people getting RFEs because of image manipulation.
+Also, most of the time the top of the page must be shown
+so the officer isn't baffled seeing something completely different. 
 
 Most of the time,
 I would shrink the browser window
@@ -1315,8 +1318,12 @@ It would produce a tall image but no address bar:
 
 Then I would take a regular screenshot with the address bar
 and combine the two.
-I would make the top layer semi-transparent
+I would make the top layer semi-transparent,
+zoom to 800%,
 and align them pixel-perfectly.
+Then I would make the layer opaque again
+and order it below the long screenshot.
+Effectively, it just added the address bar.
 
 ![](media/exhibits/me-linked-in-alignment.png)
 
