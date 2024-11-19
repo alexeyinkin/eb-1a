@@ -1617,6 +1617,26 @@ I like to hear from those who want to come to this great country!
 
 # Thank You!
 
+A lot of people were helping me,
+and most of all my parents who were solving tons of issues back home
+and sending me the missing papers.
+
+Some others wanted to stay anonymous, so let me just show
+the nationalities of this global squad of lovely people those helping me:
+
+🇧🇾 Belarus  
+🇩🇪 Germany  
+🇮🇳 India  
+🇮🇹 Italy  
+🇲🇽 Mexico  
+🇷🇺 Russia  
+🇬🇪 Sakartvelo  
+🇪🇸 Spain  
+🇨🇭 Switzerland  
+🇺🇦 Ukraine  
+🇺🇸 United States  
+
+
 This article is a part of the series:
 
 1. **The Process [You Are Here]**.  
