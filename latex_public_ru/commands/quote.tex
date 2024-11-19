@@ -1,0 +1,49 @@
+\newcommand\QuoteIndent{%
+    \hspace{2em}%
+}
+
+\newcommand{\Quote}[1]{%
+    \say{\em#1\em}%
+}
+
+\newcommand{\QuoteBy}[2]{%
+    \Quote{#1} (#2)%
+}
+
+\newcommand{\QuoteExhibit}[2]{%
+    \Quote{#1} \ExhibitRef{#2}%
+}
+
+\newcommand{\QuoteByExhibit}[3]{%
+    \Quote{#1} (#2) \ExhibitRef{#3}%
+}
+
+\newcommand{\ParagraphQuote}[1]{%
+    \begin{quote}%
+        \Quote{#1}%
+    \end{quote}%
+}
+
+\newcommand{\ParagraphQuoteBy}[2]{%
+    \begin{quote}%
+        \Quote{#1} (#2)%
+    \end{quote}%
+}
+
+\newcommand{\ParagraphQuoteExhibit}[2]{%
+    \begin{quote}%
+        \Quote{#1} \ExhibitRef{#2}%
+    \end{quote}%
+}
+
+\newcommand{\ParagraphQuoteByExhibit}[3]{%
+    \begin{quote}%
+        \Quote{#1} (#2) \ExhibitRef{#3}%
+    \end{quote}%
+}
+
+\newcommand{\ParagraphByExhibit}[3]{%
+    \begin{quote}%
+      \em{#1} (#2) \ExhibitRef{#3}%
+    \end{quote}%
+}

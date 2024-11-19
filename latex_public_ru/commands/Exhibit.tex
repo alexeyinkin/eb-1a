@@ -1,0 +1,13 @@
+% Creates an exhibit title, allocates the number for it.
+% Arguments:
+%   1 - label
+%   2 - title
+\newcommand{\Exhibit}[2]{%
+    \refstepcounter{exhibit}%
+    \label{ex:#1}
+    \UnnumberedTitle{Приложение \theexhibit}
+    \begin{center}
+        \noindent\textbf{#2}\par
+    \end{center}
+    \addcontentsline{\ExhibitGroup}{Exhibits}{\protect\numberline{\theexhibit}#2}%
+}
