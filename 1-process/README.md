@@ -52,9 +52,9 @@ Since I was outside the United States, the process was the following:
    At this point, they established the city
    where my final interview was to be held.
    I could have changed it later, but I was OK with it.
-4. I mailed the copies of those documents to them
-   over physical mail.
-5. The NVC replied that everything was complete,
+4. I mailed copies of those documents to them
+   by physical mail.
+5. The NVC replied that everything was complete
    and that I should wait for the interview date.
    If they miss any documents, they ask for them.
 6. The NVC gave me my interview date.
@@ -160,7 +160,7 @@ and mail delivery was not reliable there,
 and could take a long time.
 So I asked my United States agent
 to print and send my petition,
-and this proven to be fast.
+and this proved to be fast.
 I also used their address for replies.
 
 They printed and sent my petition on Nov 30, 2023.
@@ -215,7 +215,7 @@ when the petitioner can move to the next step.
 Applicants born in some countries
 have a long waiting line even for EB-1.
 That was not the case for my country of birth,
-so this date was never important for me.
+so this date was never important to me.
 
 On this day, nothing gave it out.
 I only learned it later from the mail later.
@@ -248,6 +248,8 @@ to prepare the requested evidence.
 
 On that day, they sent a paper notice of cashing my cheques
 (see [below](#day-18)).
+This and all following mail were sent
+to the mailing address from the I-140 form.
 
 In a subsequent petition I was helping my customer with,
 they put the fax into the form.
@@ -267,8 +269,6 @@ I was mad for them putting my Skill Level at zero, but if that's the cost, alrig
 
 On December 15, they printed a notice of approval and mailed it to me
 (see [below](#day-28)).
-This and all following mail were sent
-to the mailing address from the I-140 form.
 
 ## Day 18
 
@@ -1142,7 +1142,7 @@ what she proactively asked,
 what she accepted after I asked,
 and what they returned to me after the interview.
 
-#### Originals folder
+#### Originals Folder
 
 | The Document                                | They asked? | They accepted?    | Returned? |
 |---------------------------------------------|-------------|-------------------|-----------|
@@ -1374,6 +1374,9 @@ The bad wording in the first email prevented me from picking it up the same day.
 ## Day 334
 
 On October 29, I have picked up my passport.
+For that, I showed my second passport and paid the delivery fee in cash.
+The receptionist said that those without the second passport normally show their driver's license.
+
 At the designated address was still FedEx and not TLS Contact.
 It could be that in small cities local branches
 buy franchises from multiple companies.
@@ -1435,7 +1438,7 @@ I got an automated response:
 ![](media/335_bag-auto-response.png)
 
 Also, on that day
-the passport delivery status changed to **Picked Up**:
+the passport delivery status changed to *Picked Up*:
 
 ![](media/335_passport-picked.png)
 
