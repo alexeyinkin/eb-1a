@@ -114,6 +114,7 @@ to that of a permanent resident.
 - [Oct 29, 2024](#day-334) - Picked up my passport.
 - [Nov 3, 2024](#day-339) - Arrived in Dallas.
 - [Nov 12, 2024](#day-348) - Received my SSN by mail.
+- [Nov 22, 2024](#day-358) - Received my green card by mail.
 
 The legal process took 334 days.
 

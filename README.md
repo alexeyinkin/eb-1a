@@ -5,9 +5,6 @@ in 2024.
 
 ![](1-process/media/358_green-card-front.jpg)
 
-*(This immigrant visa is the legal equivalent of a green card
-while I'm waiting for the green card to arrive by mail in a few months).*
-
 This is the most complete and detailed free instruction on this program you will find online.
 It includes my complete petition with only a few private things blacked out,
 every form I filled out, and every piece of interaction with each of the United States bodies I went through.
