@@ -22,7 +22,7 @@ The rest of this article describes the process *after* filing it.
 The process of writing is described in
 [a separate article here](../2-petition/README.md).
 
-![](media/339_visa-stamped.jpg)
+![](media/358_green-card-front.jpg)
 
 ## The Process
 
@@ -802,7 +802,10 @@ and had nothing more to do with it:
 
 I called the designated clinic and scheduled my medical exam.
 They suggest having the exam a few days before the interview
-to make the visa last longer.
+to make the visa last longer
+(to become a permanent resident,
+one needs to arrive in the US on an immigrant visa,
+and the visa is valid for 6 months after the exam).
 However, I prefer doing things sooner,
 and I scheduled the exam 20 days prior to the interview.
 
@@ -859,6 +862,7 @@ to the sides of a person and made photos properly.
 
 Then the photographer printed two of those
 on a single page, 5 × 5 cm.
+He used the same photo to crop it for the medical exam.
 
 ## Day 308
 
@@ -1526,6 +1530,7 @@ The officer briefly paused at the medical exam.
 He put my papers back into the envelope
 and dropped it into a box with about 30 other envelopes
 like mine.
+He didn't take my fingerprints.
 I went out through a different door into America.
 
 I wanted to take a picture in the first minutes as a permanent resident
@@ -1561,6 +1566,33 @@ On November 12, I have received my Social Security Card by mail:
 ![](media/348_ssn-front.jpg)
 
 ![](media/348_ssn-back.jpg)
+
+## Day 358
+
+On November 22, I got the actual green card:
+
+![](media/358_green-card-envelope-front.jpg)
+
+![](media/358_green-card-envelope-back.jpg)
+
+![](media/358_green-card-letter-front.jpg)
+
+![](media/358_green-card-letter-back.jpg)
+
+![](media/358_green-card-front.jpg)
+
+![](media/358_green-card-back.jpg)
+
+The numbers on the card are explained
+[here](https://www.dshs.wa.gov/sites/default/files/ESA/eaz-manual/Reading%20a%20Permanent%20Resident%20Card.pdf).
+
+![](media/358_green-card-pocket-front.jpg)
+
+![](media/358_green-card-pocket-back.jpg)
+
+![](media/358_welcome-booklet-1.jpg)
+
+![](media/358_welcome-booklet-2.jpg)
 
 # The Expenses
 

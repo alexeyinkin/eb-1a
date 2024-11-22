@@ -2036,6 +2036,8 @@ every response I got,
 and every screenshot in the process.
 [Read it here](../1-process/README.md).
 
+![](../1-process/media/358_green-card-front.jpg)
+
 ![](../1-process/media/339_me.jpeg)
 
 

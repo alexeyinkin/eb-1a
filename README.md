@@ -3,7 +3,7 @@
 I was approved for a United States green card for extraordinary ability in science (I am a programmer)
 in 2024.
 
-![](1-process/media/334_visa.jpeg)
+![](1-process/media/358_green-card-front.jpg)
 
 *(This immigrant visa is the legal equivalent of a green card
 while I'm waiting for the green card to arrive by mail in a few months).*
