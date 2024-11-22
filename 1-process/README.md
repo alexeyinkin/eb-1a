@@ -81,9 +81,8 @@ Since I was outside the United States, the process was the following:
     I officially became a lawful permanent resident of the United States.
     My visa with the stamp is the legal equivalent
     of a green card for the first year.
-11. I should receive a Social Security Number (SSN) card
-    and the green card by physical mail after some time
-    and update this article.
+11. I received my Social Security Number (SSN) card
+    and the green card by physical mail.
 
 If I was in the United States already
 (tourist, work visa, studying, asylum, etc.),
