@@ -274,7 +274,7 @@ On December 15, they printed a notice of approval and mailed it to me
 
 On December 18,
 my mail agent sent me a scan of the notice
-that my cheques were cached, issued 11 days ago:
+that my cheques were cashed, issued 11 days ago:
 
 ![](media/18_cashed.jpg)
 
