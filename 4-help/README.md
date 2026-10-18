@@ -19,7 +19,7 @@ try to evaluate your profile for the EB-1A program,
 give you career advice that would strengthen your profile for the program,
 proofread your petition, and more.
 
-Rate: **$65 / hour**
+Rate: **$125 / hour**
 
 Contact me to schedule a call: https://www.linkedin.com/in/alexey-inkin/
 
